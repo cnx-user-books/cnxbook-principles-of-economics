@@ -46,9 +46,9 @@
 
 <note id="fs-idm142542176" class="economics clearup">
 <title>What's a life worth?</title>
-<para id="fs-idm45900864">The U.S. Environmental Protection Agency (EPA) must estimate the value of saving lives by reducing pollution against the additional costs. In measuring the benefits of government environmental policies, the EPA’s National Center for Environmental Economics (NCEE) values a statistical human life at $7.4 million (in 2006 U.S. dollars).</para>
+<para id="fs-idm45900864">The U.S. Environmental Protection Agency (EPA) must estimate the value of saving lives by reducing pollution against the additional costs. In measuring the benefits of government environmental policies, the EPA’s National Center for Environmental Economics (NCEE) values a statistical human life at $7.4 million (in 2006 U.S. dollars).</para> 
 <para id="fs-idm108506512">Economists value a human life on the basis of studies of the value that people actually place on human lives in their own decisions. For example, some jobs have a higher probability of death than others, and these jobs typically pay more to compensate for the risk. Examples are ocean fishery as opposed to fish farming, and ice trucking in Alaska as opposed to truck driving in the “lower forty-eight” states.</para>
-<para id="fs-idm92875664">Government regulators use estimates such as these when deciding what proposed regulations are “reasonable,” which means deciding which proposals have high enough benefits to justify their cost. For example, when the U.S. Department of Transportation makes decisions about what safety systems should be required in cars or airplanes, it will approve rules only where the estimated cost per life saved is $3 million or less.</para>
+<para id="fs-idm92875664">Government regulators use estimates such as these when deciding what proposed regulations are “reasonable,” which means deciding which proposals have high enough benefits to justify their cost. For example, when the U.S. Department of Transportation makes decisions about what safety systems should be required in cars or airplanes, it will approve rules only where the estimated cost per life saved is $3 million or less.</para> 
 <para id="fs-idm556896">Resources spent on life-saving regulations create tradeoff. A study by W. Kip Viscusi of Vanderbilt University estimated that when a regulation costs $50 million, it diverts enough spending in the rest of the economy from health care and safety expenditures that it costs a life. This finding suggests that any regulation that costs more than $50 million per life saved actually costs lives, rather than saving them.</para>
 </note>
 </section>
@@ -105,7 +105,7 @@
 </tbody>
 
 </tgroup>
-</table><list id="fs-idm25907024" list-type="enumerated" number-style="lower-alpha"><item>Using the information in <link target-id="Table_12_10" document=""/>, calculate the marginal costs and marginal benefits of reducing sewage emissions for this city. See <link document="m48620">Cost and Industry Structure</link> if you need a refresher on how to calculate marginal costs.</item>
+</table><list id="fs-idm25907024" list-type="enumerated" number-style="lower-alpha"><item>Using the information in <link target-id="Table_12_10" document=""/>, calculate the marginal costs and marginal benefits of reducing sewage emissions for this city. See <link document="m48620" class="target-chapter">Cost and Industry Structure</link> if you need a refresher on how to calculate marginal costs.</item> 
 
 
 
@@ -114,7 +114,7 @@
 </list></problem>
 <solution id="fs-idm99289872">
 <list id="fs-idp84096832" list-type="enumerated" number-style="lower-alpha"><item>See the answers in the following table. The marginal cost is calculated as the change in total cost divided by the change in quantity.
-<table id="Table_12_11" class="unnumbered" summary="The table has 2 columns and 5 rows of data. The header row includes Column 1 Total Cost (in thousands of dollars) with the marginal cost in parenthesis, and Column 2 Total Benefits (in thousands of dollars) with the marginal benefit in parenthesis. Row 1 16 Million Gallons = Current situation, Current Situation. Row 2 12 million gallons = 50 parenthesis 50, 800 parenthesis 800. Row 3 8 million gallons = 150 parenthesis 100, 1,300 parenthesis 500, Row 4 4 million gallons = 500 parenthesis 350, 1,850 parenthesis 350. Row 5 0 Gallons = 1,200 parenthesis 700, 2,000 parenthesis 150"><label/>
+<table id="Table_12_11" summary="The table has 2 columns and 5 rows of data. The header row includes Column 1 Total Cost (in thousands of dollars) with the marginal cost in parenthesis, and Column 2 Total Benefits (in thousands of dollars) with the marginal benefit in parenthesis. Row 1 16 Million Gallons = Current situation, Current Situation. Row 2 12 million gallons = 50 parenthesis 50, 800 parenthesis 800. Row 3 8 million gallons = 150 parenthesis 100, 1,300 parenthesis 500, Row 4 4 million gallons = 500 parenthesis 350, 1,850 parenthesis 350. Row 5 0 Gallons = 1,200 parenthesis 700, 2,000 parenthesis 150"><label/>
 <tgroup cols="3">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -207,7 +207,7 @@
 </tgroup>
 <caption/>
 </table>
-<list id="fs-idp37057376" list-type="enumerated" number-style="lower-alpha"><item>Calculate the marginal cost and the marginal benefit at each quantity (acre) of land restored. See <link document="m48620">Cost and Industry Structure</link> if you need a refresher on how to calculate marginal costs and benefits.
+<list id="fs-idp37057376" list-type="enumerated" number-style="lower-alpha"><item>Calculate the marginal cost and the marginal benefit at each quantity (acre) of land restored. See <link document="m48620" class="target-chapter">Cost and Industry Structure</link> if you need a refresher on how to calculate marginal costs and benefits.
 
 </item>
 <item>If we apply marginal analysis, what is the optimal amount of land to be restored?</item>
@@ -215,7 +215,7 @@
 <solution id="fs-idp37260048">
 <list id="fs-idm46963360" list-type="enumerated" number-style="lower-alpha"><item>See the next table for the answers, which were calculated using the traditional calculation of marginal cost equal to change in total cost divided by change in quantity.
 
-<table id="Table_12_13" class="unnumbered" summary="The table has 3 columns and 5 rows of data. The header row includes Column 1 Land Restored (in acres), Column 2 Total Cost with marginal cost in parenthesis, and Column 3 Total Benefit with marginal benefit in parenthesis. Row 1 = 0, $0, $0, Row 2 = 100, $20 parenthesis 0.2, $140 parenthesis 1.4. Row 3 = 200, $80 parenthesis 0.6, $240 parenthesis 1, Row 4 = 300, $160 parenthesis 0.8, $320 parenthesis 0.8, Row 5 = 400, $280 parenthesis 1.2, 3480 parenthesis 0.6"><label/>
+<table id="Table_12_13" summary="The table has 3 columns and 5 rows of data. The header row includes Column 1 Land Restored (in acres), Column 2 Total Cost with marginal cost in parenthesis, and Column 3 Total Benefit with marginal benefit in parenthesis. Row 1 = 0, $0, $0, Row 2 = 100, $20 parenthesis 0.2, $140 parenthesis 1.4. Row 3 = 200, $80 parenthesis 0.6, $240 parenthesis 1, Row 4 = 300, $160 parenthesis 0.8, $320 parenthesis 0.8, Row 5 = 400, $280 parenthesis 1.2, 3480 parenthesis 0.6"><label/>
 <tgroup cols="3">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -299,7 +299,7 @@
 <title>Problems</title>
 <exercise id="fs-idm62817264">
 <problem id="fs-idm110941568">
-<para id="fs-idm45786112">A city currently emits 16 million gallons (MG) of raw sewage into a lake that is beside the city. <link target-id="Table_12_14" document=""/>  shows the total costs (TC) in thousands of dollars of cleaning up the sewage to different levels, together with the total benefits (TB) of doing so. Benefits include environmental, recreational, health, and industrial benefits.</para>
+<para id="fs-idm45786112">A city currently emits 16 million gallons (MG) of raw sewage into a lake that is beside the city. <link target-id="Table_12_14" document=""/>  shows the total costs (TC) in thousands of dollars of cleaning up the sewage to different levels, together with the total benefits (TB) of doing so. Benefits include environmental, recreational, health, and industrial benefits.</para> 
 
 <table id="Table_12_14" summary="The table has 6 rows and 3 columns. Row 1 is the header row and consists of column 1 labeled TC and and column 2 labeled TB. Row 2 16 MG = Current, current. Row 3 12 MG = 50, 800. Row 4 8 MG = 150, 1300. Row 5 4 MG = 500, 1850. Row 6 0 MG = 1200, 2000">
 <tgroup cols="3">
@@ -354,7 +354,7 @@
 
 
 
-<section id="fs-idp220944" class="References">
+<section id="fs-idp220944" class="References">	
 <title>References</title>
 <para id="fs-idp28248928">Ryan, Dave. “New Report Shows Benefits of 1990 Clean Air Amendments Outweigh Costs by Four-to-One Margin,” press release, November 16, 1999. <emphasis effect="italics">United States Environmental Protection Agency.</emphasis> Accessed December 19, 2013. http://www.epa.gov/oar/sect812/r-140.html.</para>
 <para id="fs-idp53473008">National Center for Environmental Economics (NCEE). “Frequently Asked Questions on Mortality Risk Valuation.” <emphasis effect="italics">United States Environmental Protection Agency.</emphasis> Accessed December 19, 2013. http://yosemite.epa.gov/ee/epa/eed.nsf/pages/MortalityRiskValuation.html#whatvalue World Tourism Organization, “Tourism 2020 Vision.” Accessed December 19, 2013. http://www.world-tourism.org/market_research/facts/market_trends.htm.</para>
