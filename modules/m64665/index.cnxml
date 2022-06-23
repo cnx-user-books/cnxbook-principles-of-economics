@@ -1,0 +1,404 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>The Multiplier Effect</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64665</md:content-id>
+  <md:title>The Multiplier Effect</md:title>
+  <md:abstract/>
+  <md:uuid>6561eee3-4bfc-4a41-98ae-5b2b40e6102e</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm3201520"><title>The Multiplier Effect</title>
+<para id="fs-idm129862048">Imagine an economy that operates at a GDP of $800 when it's at a level of full employment, but the level of activity drops to $700 in a short period of time.  Government officials are urged to "do something" to revive the economy. By how much does government spending need to be increased so that the economy reaches the full employment GDP? The obvious answer might seem to be $800 – $700 = $100; so raise government spending by $100. But that answer is incorrect. A change of, for example, $100 in government expenditures will have an effect of more than $100 on the equilibrium level of real GDP. The reason is that a change in aggregate expenditures circles through the economy: households buy from firms, firms pay workers and suppliers, workers and suppliers buy goods from other firms, those firms pay their workers and suppliers, and so on. In this way, the original change in aggregate expenditures is actually spent more than once. This is called the <term class="no-emphasis">multiplier effect</term>: An initial increase in spending, cycles repeatedly through the economy and has a larger impact than the initial dollar amount spent.</para><para id="eip-66">Side note: The following discussion relies on the Keynesian view that government has a role to play in some intervention during a recession.  As we will learn later, this is not a view held by all schools of economic thought, but it has been widely practiced since the Great Depression.</para><para id="fs-idm140877600"><emphasis effect="bold">How Does the Multiplier Work?</emphasis></para>
+<para id="fs-idp8275424">To understand how the multiplier effect works, return to the example in which the current equilibrium a real GDP of $700, or $100 short of the $800 needed to be at full employment, potential GDP. If the government spends $100 to close this gap, someone in the economy receives that spending and can treat it as income. Assume that those who receive this income pay 30% in taxes, save 10% of after-tax income, spend 10% of total income on imports, and then spend the rest on domestically produced goods and services.</para><para id="fs-idm151342576">As shown in the calculations in <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/>, out of the original $100 in government spending, $53 is left to spend on domestically produced goods and services. That $53 which was spent, becomes income to someone, somewhere in the economy. Those who receive that income also pay 30% in taxes, save 10% of after-tax income, and spend 10% of total income on imports, as shown in <link target-id="CNX_Econ_C25_022"/>, so that an additional $28.09 (that is, 0.53 × $53) is spent in the third round. The people who receive that income then pay taxes, save, and buy imports, and the amount spent in the fourth round is $14.89 (that is, 0.53 × $28.09).</para><figure id="CNX_Econ_C25_022">
+<title>The Multiplier Effect </title>
+    <media id="fs-idm171205424" alt="The graph shows the multiplier effect as a rapidly upward-sloping line that levels at $200 and continues as a straight, horizontal line.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_022.jpg"/>
+    </media>
+    <caption>An original increase of government spending of $100 causes a rise in aggregate expenditure of $100. But that $100 is income to others in the economy, and after they save, pay taxes, and buy imports, they spend $53 of that $100 in a second round. In turn, that $53 is income to others. Thus, the original government spending of $100 is multiplied by these cycles of spending, but the impact of each successive cycle gets smaller and smaller. Given the numbers in this example, the original government spending increase of $100 raises aggregate expenditure by $213; therefore, the multiplier in this example is $213/$100 = 2.13.</caption>
+  </figure>
+<table id="Table_E_06" summary="The table shows information needed to calculate the multiplier effect. Column 1 lists an explanation of the data. Column 2 lists the data. Row 1: Original increase in aggregate expenditure from government spending is 100. Row 2: Which is income to people throughout the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Second-round increase of… (70 – 7 – 10) = 53. Row 3: Which is $53 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Third-round increase of… (37.1 – 3.71 – 5.3) = 28.09. Row 4: Which is $28.09 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Fourth-round increase of… (19.663 – 1.96633 – 2.809) = 14.89.">
+<title>Calculating the Multiplier Effect</title>
+   <tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+
+      <tbody>
+<row>
+<entry>Original increase in aggregate expenditure from government spending</entry>
+<entry>100</entry>
+</row>
+<row>
+<entry>Which is income to people throughout the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Second-round increase of…</entry>
+<entry>70 – 7 – 10 = 53</entry>
+</row>
+<row>
+<entry>Which is $53 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Third-round increase of…</entry>
+<entry>37.1 – 3.71 – 5.3 = 28.09</entry>
+</row>
+<row>
+<entry>Which is $28.09 of income to people through the economy: Pay 30% in taxes. Save 10% of after-tax income. Spend 10% of income on imports. Fourth-round increase of…</entry>
+<entry>19.663 – 1.96633 – 2.809 = 14.89</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+<para id="fs-idm130628256">Thus, over the first four rounds of aggregate expenditures, the impact of the original increase in government spending of $100 creates a rise in aggregate expenditures of $100 + $53 + $28.09 + $14.89 = $195.98. <link target-id="CNX_Econ_C25_022"/> shows these total aggregate expenditures after these first four rounds, and then the figure shows the total aggregate expenditures after 30 rounds. The additional boost to aggregate expenditures is shrinking in each round of consumption. After about 10 rounds, the additional increments are very small indeed—nearly invisible to the naked eye. After 30 rounds, the additional increments in each round are so small that they have no practical consequence. After 30 rounds, the cumulative value of the initial boost in aggregate expenditure is approximately $213. Thus, the government spending increase of $100 eventually, after many cycles, produced an increase of $213 in aggregate expenditure and real GDP. In this example, the multiplier is $213/$100 = 2.13.</para>
+
+<para id="fs-idp55736016"><emphasis effect="bold">Calculating the Multiplier</emphasis></para>
+<para id="fs-idm103389296">Fortunately for everyone who is not carrying around a computer with a spreadsheet program to project the impact of an original increase in expenditures over 20, 50, or 100 rounds of spending, there is a formula for calculating the multiplier.</para>
+<equation id="fs-idp21228272"><m:math><m:mtext>Spending Multiplier = 1/(1 – MPC * (1 – tax rate) + MPI)</m:mtext><m:mo> </m:mo></m:math></equation><para id="fs-idm42432576">The data from <link target-id="CNX_Econ_C25_022"/> and <link target-id="Table_E_06"/> is:
+    <list id="fs-idp3537152">
+      <item>Marginal Propensity to Save (MPS) = 30%</item>
+      <item>Tax rate = 10%</item>
+      <item>Marginal Propensity to Import (MPI) = 10%</item>
+    </list>
+</para>
+
+<para id="fs-idp8977824">The MPC is equal to 1 – MPS, or 0.7. Therefore, the spending multiplier is:</para>
+<equation id="fs-idp55695136"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Spending Multiplier</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – (0.7 – (0.10)(0.7) – 0.10)</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>0.47</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2.13</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm30668480">A change in spending of $100 multiplied by the spending multiplier of 2.13 is equal to a change in GDP of $213. Not coincidentally, this result is exactly what was calculated in <link target-id="CNX_Econ_C25_022"/> after many rounds of expenditures cycling through the economy.</para>
+<para id="fs-idm5290256">The size of the multiplier is determined by what proportion of the marginal dollar of income goes into taxes, saving, and imports. These three factors are known as <term class="no-emphasis">“leakages,”</term> because they determine how much demand “leaks out” in each round of the multiplier effect. If the leakages are relatively small, then each successive round of the multiplier effect will have larger amounts of demand, and the multiplier will be high. Conversely, if the leakages are relatively large, then any initial change in demand will diminish more quickly in the second, third, and later rounds, and the multiplier will be small. Changes in the size of the leakages—a change in the marginal propensity to save, the tax rate, or the marginal propensity to import—will change the size of the multiplier.</para><para id="eip-773">It may also help to remember that such increases in government spending are known as  <term class="no-emphasis">“injections”</term> into the spending stream.  Injections are generally increases in non-income determined spending; examples include increases in available credit, and increases in government spending.  </para><para id="eip-486">When injections exceed leakages, the net effect is a positive multiplier, resulting in economic activity that is greater before the injections and leakages took place.  When leakages are greater than injections, the result is that the level of economic activity has declined.   Both are subject to a multiplier effect: the size of the impact is greater than the size of the injection (or leakage); how much bigger it is depends on the size of the multiplier.</para><para id="fs-idm160140144"><emphasis effect="bold">Calculating Keynesian Policy Interventions</emphasis></para>
+<para id="fs-idp13998432">Returning to the original question: How much should government spending be increased to produce a total increase in real GDP of $100? If the goal is to increase aggregate demand by $100, and the multiplier is 2.13, then the increase in government spending to achieve that goal would be $100/2.13 = $47. Government spending of approximately $47, when combined with a multiplier of 2.13 (which is, remember, based on the specific assumptions about tax, saving, and import rates), produces an overall increase in real GDP of $100, restoring the economy to potential GDP of $800, as <link target-id="CNX_Econ_C25_023"/> shows.</para>
+<figure id="CNX_Econ_C25_023">
+<title>The Multiplier Effect in an Expenditure-Output Model </title>
+    <media id="fs-idm64511728" alt="The graph shows the multiplier effect in the expenditure-output model: an increase in expenditure has a larger increase on the equilibrium output.">
+      <image mime-type="image/jpeg" src="../../media/CNX_Econ_C25_023.jpg"/>
+    </media>
+    <caption>The power of the multiplier effect is that an increase in expenditure has a larger increase on the equilibrium output. The increase in expenditure is the vertical increase from AE<sub>0</sub> to AE<sub>1</sub>. However, the increase in equilibrium output, shown on the horizontal axis, is clearly larger.</caption>
+  </figure>
+<para id="fs-idp29131040">The multiplier effect is also visible on the Keynesian cross diagram. <link target-id="CNX_Econ_C25_023"/> shows the example we have been discussing: a recessionary gap with an equilibrium of $700, potential GDP of $800, the slope of the aggregate expenditure function (AE<sub>0</sub>) determined by the assumptions that taxes are 30% of income, savings are 0.1 of after-tax income, and imports are 0.1 of before-tax income. At AE<sub>1</sub>, the aggregate expenditure function is moved up to reach potential GDP.</para>
+<para id="fs-idm45883424">Now, compare the vertical shift upward in the aggregate expenditure function, which is $47, with the horizontal shift outward in real GDP, which is $100 (as these numbers were calculated earlier). The rise in real GDP is more than double the rise in the aggregate expenditure function. (Similarly, if you look back at <link target-id="CNX_Econ_C25_026"/>, you will see that the vertical movements in the aggregate expenditure functions are smaller than the change in equilibrium output that is produced on the horizontal axis. Again, this is the multiplier effect at work.) In this way, the power of the multiplier is apparent in the income–expenditure graph, as well as in the arithmetic calculation.</para>
+<para id="fs-idm1693568">The multiplier does not just affect government spending, but applies to any change in the economy. Say that business confidence declines and investment falls off, or that the economy of a leading trading partner slows down so that export sales decline. These changes will reduce aggregate expenditures, and then will have an even larger effect on real GDP because of the multiplier effect. Read the following Clear It Up feature to learn how the multiplier effect can be applied to analyze the economic impact of professional sports.</para>
+<note id="fs-idm26857904" class="economics clearup">
+      <title>How can the multiplier be used to analyze the economic impact of professional sports?</title>
+<para id="fs-idm41030640">Attracting professional sports teams and building sports stadiums to create jobs and stimulate business growth is an economic development strategy adopted by many communities throughout the United States. In his recent article, “Public Financing of Private Sports Stadiums,” James Joyner of <emphasis effect="italics">Outside the Beltway</emphasis> looked at public financing for NFL teams. Joyner’s findings confirm the earlier work of John Siegfried of Vanderbilt University and Andrew Zimbalist of Smith College.</para>
+<para id="fs-idm42568208">Siegfried and Zimbalist used the multiplier to analyze this issue. They considered the amount of taxes paid and dollars spent locally to see if there was a positive multiplier effect. Since most professional athletes and owners of sports teams are rich enough to owe a lot of taxes, let’s say that 40% of any marginal income they earn is paid in taxes. Because athletes are often high earners with short careers, let’s assume that they save one-third of their after-tax income.</para>
+<para id="fs-idm39901248">However, many professional athletes do not live year-round in the city in which they play, so let’s say that one-half of the money that they do spend is spent outside the local area. One can think of spending outside a local economy, in this example, as the equivalent of imported goods for the national economy.</para>
+<para id="fs-idm121942384">Now, consider the impact of money spent at local entertainment venues other than professional sports. While the owners of these other businesses may be comfortably middle-income, few of them are in the economic stratosphere of professional athletes. Because their incomes are lower, so are their taxes; say that they pay only 35% of their marginal income in taxes. They do not have the same ability, or need, to save as much as professional athletes, so let’s assume their MPC is just 0.8. Finally, because more of them live locally, they will spend a higher proportion of their income on local goods—say, 65%.</para>
+<para id="fs-idm3815184">If these general assumptions hold true, then money spent on professional sports will have less local economic impact than money spent on other forms of entertainment. For professional athletes, out of a dollar earned, 40 cents goes to taxes, leaving 60 cents. Of that 60 cents, one-third is saved, leaving 40 cents, and half is spent outside the area, leaving 20 cents. Only 20 cents of each dollar is cycled into the local economy in the first round. For locally-owned entertainment, out of a dollar earned, 35 cents goes to taxes, leaving 65 cents. Of the rest, 20% is saved, leaving 52 cents, and of that amount, 65% is spent in the local area, so that 33.8 cents of each dollar of income is recycled into the local economy.</para>
+<para id="fs-idm156385920">Siegfried and Zimbalist make the plausible argument that, within their household budgets, people have a fixed amount to spend on entertainment. If this assumption holds true, then money spent attending professional sports events is money that was not spent on other entertainment options in a given metropolitan area. Since the multiplier is lower for professional sports than for other local entertainment options, the arrival of professional sports to a city would reallocate entertainment spending in a way that causes the local economy to shrink, rather than to grow. Thus, their findings seem to confirm what Joyner reports and what newspapers across the country are reporting. A quick Internet search for “economic impact of sports” will yield numerous reports questioning this economic development strategy.</para>
+</note>
+<para id="fs-idm166600240"><emphasis effect="bold">Multiplier Tradeoffs: Stability versus the Power of Macroeconomic Policy</emphasis></para>
+<para id="fs-idm92997648">Is an economy healthier with a high multiplier or a low one? With a high multiplier, any change in aggregate demand will tend to be substantially magnified, and so the economy will be more unstable. With a low multiplier, by contrast, changes in aggregate demand will not be multiplied much, so the economy will tend to be more stable.</para>
+<para id="fs-idm66008896">However, with a low multiplier, government policy changes in taxes or spending will tend to have less impact on the equilibrium level of real output. With a higher multiplier, government policies to raise or reduce aggregate expenditures will have a larger effect. Thus, a low multiplier means a more stable economy, but also weaker government macroeconomic policy, while a high multiplier means a more volatile economy, but also an economy in which government macroeconomic policy is more powerful.</para>
+</section>
+<section id="fs-idm142495216">
+  <title>Key Concepts and Summary</title>
+<para id="fs-idm118399840">The expenditure-output model or Keynesian cross diagram shows how the level of aggregate expenditure (on the vertical axis) varies with the level of economic output (shown on the horizontal axis). Since the value of all macroeconomic output also represents income to someone somewhere else in the economy, the horizontal axis can also be interpreted as national income. The equilibrium in the diagram will occur where the aggregate expenditure line crosses the 45-degree line, which represents the set of points where aggregate expenditure in the economy is equal to output (or national income). Equilibrium in a Keynesian cross diagram can happen at potential GDP, or below or above that level.</para>
+<para id="fs-idm16692272">The consumption function shows the upward-sloping relationship between national income and consumption. The marginal propensity to consume (MPC) is the amount consumed out of an additional dollar of income. A higher marginal propensity to consume means a steeper consumption function; a lower marginal propensity to consume means a flatter consumption function. The marginal propensity to save (MPS) is the amount saved out of an additional dollar of income. It is necessarily true that MPC + MPS = 1. The investment function is drawn as a flat line, showing that investment in the current year does not change with regard to the current level of national income. However, the investment function will move up and down based on the expected rate of return in the future. Government spending is drawn as a horizontal line in the Keynesian cross diagram, because its level is determined by political considerations, not by the current level of income in the economy. Taxes in the basic Keynesian cross diagram are taken into account by adjusting the consumption function. The export function is drawn as a horizontal line in the Keynesian cross diagram, because exports do not change as a result of changes in domestic income, but they move as a result of changes in foreign income, as well as changes in exchange rates. The import function is drawn as a downward-sloping line, because imports rise with national income, but imports are a subtraction from aggregate demand. Thus, a higher level of imports means a lower level of expenditure on domestic goods.</para>
+<para id="fs-idm24297856">In a Keynesian cross diagram, the equilibrium may be at a level below potential GDP, which is called a recessionary gap, or at a level above potential GDP, which is called an inflationary gap.</para>
+<para id="fs-idm4264320">The multiplier effect describes how an initial change in aggregate demand generated several times as much as cumulative GDP. The size of the spending multiplier is determined by three leakages: spending on savings, taxes, and imports. The formula for the multiplier is:</para>
+<equation id="fs-idm143587472"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Multiplier</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – (MPC × (1 – tax rate) + MPI)</m:mtext></m:mfrac></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm167192912">An economy with a lower multiplier is more stable—it is less affected either by economic events or by government policy than an economy with a higher multiplier.</para>
+</section>
+<section id="fs-idp56097840"><title>Self-Check Questions</title><exercise id="fs-idp76551264">
+    <problem id="fs-idp113548880">
+      <para id="fs-idm47882192">An economy has the following characteristics:</para>
+<para id="fs-idp116958848">Y = National income</para>
+<para id="fs-idm52971504">Taxes = T = 0.25Y</para>
+<para id="fs-idp106589920">C = Consumption = 400 + 0.85(Y – T)</para>
+<para id="fs-idm41279552">I = 300</para>
+<para id="fs-idp9101472">G = 200</para>
+<para id="fs-idp2048432">X = 500</para>
+<para id="fs-idp7265712">M = 0.1(Y – T)</para>
+<para id="fs-idp42959312">Find the equilibrium for this economy. If potential GDP is 3,500, then what change in government spending is needed to achieve this level? Do this problem two ways. First, plug 3,500 into the equations and solve for G. Second, calculate the multiplier and figure it out that way.</para>
+    </problem>
+
+  </exercise>
+    <para id="fs-idp118818032"><title>Solution</title>First, set up the calculation.</para>
+<equation id="fs-idp85827200"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>AE</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – T) + 300 + 200 + 500 – 0.1(Y – T)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>AE</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>Y</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp85771344">Then insert Y for AE and 0.25Y for T.</para>
+<equation id="fs-idm67867824"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – 0.25Y) + 300 + 200 + 500 – 0.1(Y – 0.25Y)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1400 + 0.6375Y – 0.075Y</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>0.4375Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>1400</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>3200</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp58528416">If full employment is 3,500, then one approach is to plug in 3,500 for Y throughout the equation, but to leave G as a separate variable.</para>
+<equation id="fs-idm30952448"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>Y</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(Y – 0.25Y) + 300 + G + 500 + 0.1(Y – 0.25Y)</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>3500</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>400 + 0.85(3500 – 0.25(3500)) + 300 + G + 500 – 0.1(3500 – 0.25(3500))</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>G</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>3500 – 400 – 2231.25 – 1300 – 500 + 262.5</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>G</m:mtext></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>331.25</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp60365888">A G value of 331.25 is an increase of 131.25 from its original level of 200.</para>
+<para id="fs-idp40916656">Alternatively, the multiplier is that, out of every dollar spent, 0.25 goes to taxes, leaving 0.75, and out of after-tax income, 0.15 goes to savings and 0.1 to imports. Because (0.75)(0.15) = 0.1125 and (0.75)(0.1) = 0.075, this means that out of every dollar spent: 1 –0.25 –0.1125 –0.075 = 0.5625.</para>
+<para id="fs-idm20173088">Thus, using the formula, the multiplier is:</para>
+<equation id="fs-idm54700000"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mfrac><m:mtext>1</m:mtext><m:mtext>1 – 0.5625</m:mtext></m:mfrac></m:mtd><m:mtd><m:mtext> = </m:mtext></m:mtd><m:mtd><m:mtext>2.2837</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm30138432">To increase equilibrium GDP by 300, it will take a boost of 300/2.2837, which again works out to 131.25.</para>
+
+  <exercise id="fs-idm9367632">
+    <problem id="fs-idm56378032">
+      <para id="fs-idp115163664"><link target-id="Table_E_07"/> represents the data behind a Keynesian cross diagram. Assume that the tax rate is 0.4 of national income; the MPC out of the after-tax income is 0.8; investment is $2,000; government spending is $1,000; exports are $2,000 and imports are 0.05 of after-tax income. What is the equilibrium level of output for this economy?
+<table id="Table_E_07" summary="The table shows the data behind a Keynesian cross diagram, as well as space for filling in the final values. Column 1 lists National Income. Column 2 lists After-Tax Income. Column 3 lists Consumption. Column 4 lists I+G+X. Column 5 lists Minus Imports. Column 6 lists Aggregate Expenditures. Column 1 has the following amounts: $8,000; $9,000, $10,000, $11,000, $12,000, $13,000. Column 3 row 1 (consumption) shows $4,340. All other cells are blank.">
+   <tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>After-tax Income</entry>
+<entry>Consumption</entry>
+<entry>I + G + X</entry>
+<entry>Minus Imports</entry>
+<entry>Aggregate Expenditures</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$8,000</entry>
+<entry/>
+<entry>$4,340</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$10,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$11,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$12,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>$13,000</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+
+      </tbody>
+    </tgroup>
+</table>
+</para>
+    </problem>
+  </exercise>
+
+
+<para id="fs-idp54452256"><title>Solution</title>The following table illustrates the completed table. The equilibrium is level is italicized.</para><table id="Table_E_08" summary="The table shows the completed table of data for a Keynesian cross diagram. Column 1 lists National Income. Column 2 lists After-Tax Income. Column 3 lists Consumption. Column 4 lists I+G+X. Column 5 lists Minus Imports. Column 6 lists Aggregate Expenditures. Row 1: $8,000 (in national income); $4,800 (in after-tax income); $4,340 (in consumption); $5,000 (in I+G+X); $240 (in minus imports); $9,100 (in aggregate expenditures). Row 2: $9,000 (in national income); $5,400 (in after-tax income); $4,820 (in consumption); $5,000 (in I+G+X); $270 (in minus imports); $9,550 (in aggregate expenditures). Row 3 (this row is italicized): $10,000 (in national income); $6,000 (in after-tax income); $5,300 (in consumption); $5,000 (in I+G+X); $300 (in minus imports); $10,000 (in aggregate expenditures). Row 4: $11,000 (in national income); $6,600 (in after-tax income); $5,780 (in consumption); $5,000 (in I+G+X); $330 (in minus imports); $10,450 (in aggregate expenditures). Row 5: $12,000 (in national income); $7,200 (in after-tax income); $6,260 (in consumption); $5,000 (in I+G+X); $360 (in minus imports); $10,900 (in aggregate expenditures). Row 6: $13,000 (in national income); $7,800 (in after-tax income); $46,740 (in consumption); $5,000 (in I+G+X); $4,390 (in minus imports); $11,350 (in aggregate expenditures).">
+   <tgroup cols="6">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+<colspec colnum="5" colname="col5"/>
+<colspec colnum="6" colname="col6"/>
+<thead>
+<row>
+<entry>National Income</entry>
+<entry>After-tax Income</entry>
+<entry>Consumption</entry>
+<entry>I + G + X</entry>
+<entry>Minus Imports</entry>
+<entry>Aggregate Expenditures</entry>
+</row>
+</thead>
+
+      <tbody>
+<row>
+<entry>$8,000</entry>
+<entry>$4,800</entry>
+<entry>$4,340</entry>
+<entry>$5,000</entry>
+<entry>$240</entry>
+<entry>$9,100</entry>
+</row>
+<row>
+<entry>$9,000</entry>
+<entry>$5,400</entry>
+<entry>$4,820</entry>
+<entry>$5,000</entry>
+<entry>$270</entry>
+<entry>$9,550</entry>
+</row>
+<row>
+<entry><emphasis effect="italics">$10,000</emphasis></entry>
+<entry><emphasis effect="italics">$6,000</emphasis></entry>
+<entry><emphasis effect="italics">$5,300</emphasis></entry>
+<entry><emphasis effect="italics">$5,000</emphasis></entry>
+<entry><emphasis effect="italics">$300</emphasis></entry>
+<entry><emphasis effect="italics">$10,000</emphasis></entry>
+</row>
+<row>
+<entry>$11,000</entry>
+<entry>$6,600</entry>
+<entry>$5,780</entry>
+<entry>$5,000</entry>
+<entry>$330</entry>
+<entry>$10,450</entry>
+</row>
+<row>
+<entry>$12,000</entry>
+<entry>$7,200</entry>
+<entry>$6,260</entry>
+<entry>$5,000</entry>
+<entry>$360</entry>
+<entry>$10,900</entry>
+</row>
+<row>
+<entry>$13,000</entry>
+<entry>$7,800</entry>
+<entry>$46,740</entry>
+<entry>$5,000</entry>
+<entry>$4,390</entry>
+<entry>$11,350</entry>
+</row>
+
+      </tbody>
+    </tgroup>
+</table>
+<para id="fs-idp17850128">The alternative way of determining equilibrium is to solve for Y, where Y = national income, using: Y = AE = C + I + G + X – M</para><equation id="fs-idp8303616"><m:math><m:mtext>Y = $500 + 0.8(Y – T) + $2,000 + $1,000 + $2,000 – 0.05(Y – T)</m:mtext></m:math></equation>
+<para id="fs-idp120074224">Solving for Y, we see that the equilibrium level of output is Y = $10,000.</para>
+
+  <exercise id="fs-idm51414432">
+    <problem id="fs-idp36269408">
+      <para id="fs-idm58740736">Explain how the multiplier works. Use an MPC of 80% in an example.</para>
+    </problem>
+  </exercise>
+
+<para id="fs-idm48927152"><title>Solution</title>The multiplier refers to how many times a dollar will turnover in the economy. It is based on the Marginal Propensity to Consume (MPC) which tells how much of every dollar received will be spent. If the MPC is 80% then this means that out of every one dollar received by a consumer, $0.80 will be spent. This $0.80 is received by another person. In turn, 80% of the $0.80 received, or $0.64, will be spent, and so on. The impact of the multiplier is diluted when the effect of taxes and expenditure on imports is considered. To derive the multiplier, take the 1/1 – F; where F is equal to percent of savings, taxes, and expenditures on imports.</para>
+</section><section id="fs-idp25359600">
+  <title>Review Questions</title>
+  <exercise id="fs-idm79901872">
+    <problem id="fs-idp75090816">
+      <para id="fs-idm13787520">What is on the axes of an expenditure-output diagram?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp25016784">
+    <problem id="fs-idp45604352">
+      <para id="fs-idm61271840">What does the 45-degree line show?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm138457344">
+    <problem id="fs-idm26347136">
+      <para id="fs-idm152264768">What determines the slope of a consumption function?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm74197392">
+    <problem id="fs-idm36794000">
+      <para id="fs-idm134375408">What is the marginal propensity to consume, and how is it related to the marginal propensity to import?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm127385424">
+    <problem id="fs-idm113965024">
+      <para id="fs-idm16119136">Why are the investment function, the government spending function, and the export function all drawn as flat lines?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm64413616">
+    <problem id="fs-idm105485280">
+      <para id="fs-idm835392">Why does the import function slope down? What is the marginal propensity to import?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm88940368">
+    <problem id="fs-idm92619280">
+      <para id="fs-idm21869904">What are the components on which the aggregate expenditure function is based?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm45994336">
+    <problem id="fs-idm91519024">
+      <para id="fs-idm141607520">Is the equilibrium in a Keynesian cross diagram usually expected to be at or near potential GDP?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm22321328">
+    <problem id="fs-idm74265904">
+      <para id="fs-idm73707968">What is an inflationary gap? A recessionary gap?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm133612560">
+    <problem id="fs-idm113049072">
+      <para id="fs-idm112766048">What is the multiplier effect?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm80722880">
+    <problem id="fs-idm115802032">
+      <para id="fs-idp58003584">Why are savings, taxes, and imports referred to as “leakages” in calculating the multiplier effect?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm149136112">
+    <problem id="fs-idm112577152">
+      <para id="fs-idm114992544">Will an economy with a high multiplier be more stable or less stable than an economy with a low multiplier in response to changes in the economy or in government policy?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm13833696">
+    <problem id="fs-idp43698608">
+      <para id="fs-idp15811184">How do economists use the multiplier?</para>
+    </problem>
+  </exercise>
+</section>
+
+<section id="fs-idp42244400">
+  <title>Critical Thinking Questions</title>
+  <exercise id="fs-idp80373680">
+    <problem id="fs-idm14166832">
+      <para id="fs-idp31116096">What does it mean when the aggregate expenditure line crosses the 45-degree line? In other words, how would you explain the intersection in words?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp114039152">
+    <problem id="fs-idp1960272">
+      <para id="fs-idp91711296">Which model, the AD/AS or the AE model better explains the relationship between rising price levels and GDP? Why?</para></problem>
+  </exercise>
+  <exercise id="fs-idm23999840">
+    <problem id="fs-idp166979088">
+      <para id="fs-idp110794320">What are some reasons that the economy might be in a recession, and what is the appropriate government action to alleviate the recession?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp2089232">
+    <problem id="fs-idp61072352">
+      <para id="fs-idp89291088">What should the government do to relieve inflationary pressures if the aggregate expenditure is greater than potential GDP?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idm106546784">
+    <problem id="fs-idm6490464">
+      <para id="fs-idp118466352">Two countries are in a recession. Country A has an MPC of 0.8 and Country B has an MPC of 0.6. In which country will government spending have the greatest impact?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp78566736">
+    <problem id="fs-idp185583440">
+      <para id="fs-idp53080464">Compare two policies: a tax cut on income or an increase in government spending on roads and bridges. What are both the short-term and long-term impacts of such policies on the economy?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp54455776">
+    <problem id="fs-idp77543136">
+      <para id="fs-idp6093904">What role does government play in stabilizing the economy and what are the tradeoffs that must be considered?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp54769648">
+    <problem id="fs-idp80173808">
+      <para id="fs-idm15621280">If there is a recessionary gap of $100 billion, should the government increase spending by $100 billion to close the gap? Why? Why not?</para>
+    </problem>
+  </exercise>
+  <exercise id="fs-idp205780976">
+    <problem id="fs-idp128186656">
+      <para id="fs-idp33090288">What other changes in the economy can be evaluated by using the multiplier?</para>
+    </problem>
+  </exercise>
+</section>
+<section id="fs-idm177373968">
+<title>References</title>
+<para id="fs-idm86188144">Joyner, James. Outside the Beltway. “Public Financing of Private Sports Stadiums.” Last modified May 23, 2012. http://www.outsidethebeltway.com/public-financing-of-private-sports-stadiums/.</para>
+<para id="fs-idm135677488">Siegfried, John J., and Andrew Zimbalist. “The Economics of Sports Facilities and Their Communities.” <emphasis effect="italics">Journal of Economic Perspectives</emphasis>. no. 3 (2000): 95-114. http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.14.3.95.</para>
+</section>
+
+</content>
+
+</document>

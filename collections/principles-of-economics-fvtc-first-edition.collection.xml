@@ -1,0 +1,225 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12217</md:content-id>
+    <md:title>Principles of Economics-FVTC    First Edition</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>4393cdc8-1f92-4234-8bb8-94d3808d58bc</md:uuid>
+<md:slug>principles-of-economics-fvtc-first-edition</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m64534"/>
+    <col:subcollection>
+      <md:title>Welcome to Economics!</md:title>
+      <col:content>
+        <col:module document="m48590"/>
+        <col:module document="m64546"/>
+        <col:module document="m48592"/>
+        <col:module document="m64548"/>
+        <col:module document="m64549"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Choice in a World of Scarcity</md:title>
+      <col:content>
+        <col:module document="m48602"/>
+        <col:module document="m64550"/>
+        <col:module document="m64668"/>
+        <col:module document="m48608"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Demand and Supply</md:title>
+      <col:content>
+        <col:module document="m48628"/>
+        <col:module document="m48629"/>
+        <col:module document="m64551"/>
+        <col:module document="m48632"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Elasticity</md:title>
+      <col:content>
+        <col:module document="m48611"/>
+        <col:module document="m64553"/>
+        <col:module document="m64554"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Macroeconomic Perspective</md:title>
+      <col:content>
+        <col:module document="m48705"/>
+        <col:module document="m64587"/>
+        <col:module document="m64588"/>
+        <col:module document="m64591"/>
+        <col:module document="m64592"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unemployment</md:title>
+      <col:content>
+        <col:module document="m48719"/>
+        <col:module document="m64596"/>
+        <col:module document="m64598"/>
+        <col:module document="m64601"/>
+        <col:module document="m64602"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Inflation</md:title>
+      <col:content>
+        <col:module document="m48724"/>
+        <col:module document="m64603"/>
+        <col:module document="m64604"/>
+        <col:module document="m64606"/>
+        <col:module document="m64609"/>
+        <col:module document="m64610"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Government Budgets and Fiscal Policy</md:title>
+      <col:content>
+        <col:module document="m48791"/>
+        <col:module document="m48792"/>
+        <col:module document="m48793"/>
+        <col:module document="m48794"/>
+        <col:module document="m64611"/>
+        <col:module document="m64665"/>
+        <col:module document="m64612"/>
+        <col:module document="m64613"/>
+        <col:module document="m48799"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Money and Banking</md:title>
+      <col:content>
+        <col:module document="m48761"/>
+        <col:module document="m64615"/>
+        <col:module document="m64616"/>
+        <col:module document="m64617"/>
+        <col:module document="m64619"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monetary Policy and Bank Regulation</md:title>
+      <col:content>
+        <col:module document="m48768"/>
+        <col:module document="m64622"/>
+        <col:module document="m64623"/>
+        <col:module document="m64624"/>
+        <col:module document="m64625"/>
+        <col:module document="m64626"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Keynesian Perspective</md:title>
+      <col:content>
+        <col:module document="m48749"/>
+        <col:module document="m48750"/>
+        <col:module document="m64637"/>
+        <col:module document="m64638"/>
+        <col:module document="m48754"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Neoclassical Perspective</md:title>
+      <col:content>
+        <col:module document="m48756"/>
+        <col:module document="m48758"/>
+        <col:module document="m64640"/>
+        <col:module document="m48760"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Environmental Protection and Negative Externalities</md:title>
+      <col:content>
+        <col:module document="m48668"/>
+        <col:module document="m48669"/>
+        <col:module document="m48670"/>
+        <col:module document="m64555"/>
+        <col:module document="m64558"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Positive Externalities and Public Goods</md:title>
+      <col:content>
+        <col:module document="m48675"/>
+        <col:module document="m48676"/>
+        <col:module document="m64559"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Information, Risk, and Insurance</md:title>
+      <col:content>
+        <col:module document="m48694"/>
+        <col:module document="m64570"/>
+        <col:module document="m64564"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Perfect Competition</md:title>
+      <col:content>
+        <col:module document="m48646"/>
+        <col:module document="m64571"/>
+        <col:module document="m64573"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopoly</md:title>
+      <col:content>
+        <col:module document="m48650"/>
+        <col:module document="m64576"/>
+        <col:module document="m64580"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopolistic Competition and Oligopoly</md:title>
+      <col:content>
+        <col:module document="m48658"/>
+        <col:module document="m64583"/>
+        <col:module document="m64585"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Monopoly and Antitrust Policy</md:title>
+      <col:content>
+        <col:module document="m48661"/>
+        <col:module document="m48662"/>
+        <col:module document="m48663"/>
+        <col:module document="m64586"/>
+        <col:module document="m48667"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The International Trade and Capital Flows</md:title>
+      <col:content>
+        <col:module document="m48731"/>
+        <col:module document="m64641"/>
+        <col:module document="m48733"/>
+        <col:module document="m64642"/>
+        <col:module document="m64644"/>
+        <col:module document="m48738"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Exchange Rates and International Capital Flows</md:title>
+      <col:content>
+        <col:module document="m48776"/>
+        <col:module document="m64645"/>
+        <col:module document="m64647"/>
+        <col:module document="m64648"/>
+        <col:module document="m64649"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>International Trade</md:title>
+      <col:content>
+        <col:module document="m48818"/>
+        <col:module document="m48819"/>
+        <col:module document="m48820"/>
+        <col:module document="m48822"/>
+        <col:module document="m48823"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

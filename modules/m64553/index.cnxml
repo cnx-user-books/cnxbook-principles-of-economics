@@ -1,0 +1,302 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Price Elasticity of Demand and Price Elasticity of Supply</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64553</md:content-id>
+  <md:title>Price Elasticity of Demand and Price Elasticity of Supply</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Calculate the price elasticity of demand</item>
+<item>Calculate the price elasticity of supply</item>
+</list></md:abstract>
+  <md:uuid>85c5645b-bc61-4d54-93d1-a925ba727961</md:uuid>
+</metadata>
+
+<content>
+
+<para id="delete_me">Both the demand and supply curve show the relationship between price and the number of units demanded or supplied. <term>Price elasticity</term> is the ratio between the percentage change in the quantity demanded (Qd) or supplied (Qs) and the corresponding percent change in price. The <term>price elasticity of demand</term> is the percentage change in the quantity <emphasis effect="italics">demanded</emphasis> of a good or service divided by the percentage change in the price. The <term>price elasticity of supply</term> is the percentage change in quantity <emphasis effect="italics">supplied</emphasis> divided by the percentage change in price.</para><para id="fs-idp21961264">Elasticities can be usefully divided into three broad categories: elastic, inelastic, and unitary. An <term>elastic demand</term> or <term>elastic supply</term> is one in which the elasticity is greater than one, indicating a high responsiveness to changes in price. Elasticities that are less than one indicate low responsiveness to price changes and correspond to <term>inelastic demand</term> or <term>inelastic supply</term>. <term>Unitary elasticities</term> indicate proportional responsiveness of either demand or supply, as summarized in <link target-id="Table_05_01" document=""/>.</para>
+
+
+<table id="Table_05_01" summary="If percentage change in quantity is greater than percentage change in price then percentage change in quantity divided by percentage change in price is greater than 1, and it is called “Elastic.” If percentage change in quantity is equal to percentage change in price then percentage change in quantity divided by percentage change in price is equal to 1, and it is called “Unitary.” If percentage change in quantity is less than percentage change in price then percentage change in quantity divided by percentage change in price is less than 1, and it is called “Inelastic.”">
+   <tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+	<entry>If . . .</entry>
+	<entry>Then . . .</entry>
+	<entry>And It Is Called . . .</entry>
+
+</row>
+</thead>
+
+      <tbody>
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>&gt;</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>&gt;</mo><mn>1</mn></math></entry>
+          <entry> Elastic </entry>
+        </row>
+
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>=</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>=</mo><mn>1</mn></math></entry>
+          <entry> Unitary </entry>
+        </row>
+
+        <row>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mtext>% change in quantity</mtext><mo>&lt;</mo><mtext>% change in price</mtext></math></entry>
+          <entry><math xmlns="http://www.w3.org/1998/Math/MathML"><mfrac><mrow><mtext>% change in quantity</mtext></mrow><mrow><mtext>% change in price</mtext></mrow></mfrac><mo>&lt;</mo><mn>1</mn></math></entry>
+          <entry> Inelastic </entry>
+        </row>
+      </tbody>
+
+    </tgroup>
+    <caption>Elastic, Inelastic, and Unitary: Three Cases of Elasticity</caption>
+
+</table>
+<section id="fs-idp17381808" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idp10316160">Price elasticity measures the responsiveness of the quantity demanded or supplied of a good to a change in its price. It is computed as the percentage change in quantity demanded (or supplied) divided by the percentage change in price. Elasticity can be described as elastic (or very responsive), unit elastic, or inelastic (not very responsive). Elastic demand or supply curves indicate that quantity demanded or supplied respond to price changes in a greater than proportional manner. An inelastic demand or supply curve is one where a given percentage change in price will cause a smaller percentage change in quantity demanded or supplied. A unitary elasticity means that a given percentage change in price leads to an equal percentage change in quantity demanded or supplied.</para>
+</section>
+<section id="fs-idp16124064" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idp16086976">
+<problem id="fs-idp13810096">
+<para id="fs-idp20371552">From the data shown in <link target-id="Table_05_02" document=""/> about demand for smart phones, calculate the price elasticity of demand from: point B to point C, point D to point E, and point G to point H. Classify the elasticity at each point as elastic, inelastic, or unit elastic.</para><table id="Table_05_02" summary="For A, P = 60 and Q = 3,000. For B, P = 70 and Q = 2,800. For C, P = 80 and Q = 2,600. For D, P = 90 and Q = 2,400. For E, P = 100 and Q = 2,200. For F, P = 110 and Q = 2,000. For G, P = 120 and Q = 1,800. For H, P = 130 and Q = 1,600.">
+   <tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+
+<row>
+	<entry>Points</entry>
+	<entry>P</entry>
+	<entry>Q</entry>
+</row>
+</thead>
+
+      <tbody>
+        <row>
+          <entry>A</entry>
+          <entry>60</entry>
+          <entry>3,000</entry>
+        </row>
+
+        <row>
+          <entry>B</entry>
+          <entry>70</entry>
+          <entry>2,800</entry>
+        </row>
+
+        <row>
+          <entry>C</entry>
+          <entry>80</entry>
+          <entry>2,600 </entry>
+        </row>
+
+        <row>
+          <entry>D</entry>
+          <entry>90</entry>
+          <entry> 2,400</entry>
+        </row>
+
+        <row>
+          <entry>E </entry>
+          <entry>100</entry>
+          <entry>2,200</entry>
+        </row>
+
+        <row>
+          <entry>F </entry>
+          <entry>110</entry>
+          <entry>2,000 </entry>
+        </row>
+
+        <row>
+          <entry>G </entry>
+          <entry>120</entry>
+          <entry>1,800</entry>
+        </row>
+
+        <row>
+          <entry>H </entry>
+          <entry>130</entry>
+<entry>1,600</entry>
+        </row>
+      </tbody>
+    </tgroup>
+    <caption/>
+</table>
+
+
+
+
+
+</problem>
+<solution id="fs-idp8787376"><para id="fs-idp19486576">From point B to point C, price rises from $70 to $80, and Qd decreases from 2,800 to 2,600. So:</para>
+<equation id="fs-idm68197184"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>2600</m:mn><m:mo>–</m:mo><m:mn>2800</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>2600</m:mn><m:mo>+</m:mo><m:mn>2800</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–200</m:mn></m:mrow><m:mn>2700</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>–7.41</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>80</m:mn><m:mo>–</m:mo><m:mn>70</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>80</m:mn><m:mo>+</m:mo><m:mn>70</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>10</m:mn><m:mn>75</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>13.33</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Demand</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–7.41%</m:mn></m:mrow><m:mrow><m:mn>13.33%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0.56</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm2642400">The demand curve is inelastic in this area; that is, its elasticity value is less than one.</para>
+<para id="fs-idm11912864">Answer from Point D to point E:</para>
+ <equation id="fs-idm51022624"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>2200</m:mn><m:mo>–</m:mo><m:mn>2400</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>2200</m:mn><m:mo>+</m:mo><m:mn>2400</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–200</m:mn></m:mrow><m:mn>2300</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>–8.7</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mo>%</m:mo><m:mo> </m:mo><m:mtext>change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>100</m:mn><m:mo>–</m:mo><m:mn>90</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>100</m:mn><m:mo>+</m:mo><m:mn>90</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>10</m:mn><m:mn>95</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>10.53</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Demand</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–8.7% </m:mn></m:mrow><m:mrow><m:mn>10.53%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0.83</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm2420496">The demand curve is inelastic in this area; that is, its elasticity value is less than one.</para>
+<para id="fs-idp17544896">Answer from Point G to point H:</para>
+ <equation id="fs-idm9802224"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>1600</m:mn><m:mo>–</m:mo><m:mn>1800</m:mn></m:mrow><m:mrow>
+<m:mrow><m:mn>1700</m:mn></m:mrow></m:mrow>
+</m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–200</m:mn></m:mrow><m:mn>1700</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>–11.76</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>130</m:mn><m:mo>–</m:mo><m:mn>120</m:mn></m:mrow><m:mrow>
+<m:mn>125</m:mn></m:mrow></m:mfrac>
+<m:mn> × 100</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>10</m:mn><m:mn>125</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>8.00</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Demand</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>–11.76% </m:mn></m:mrow><m:mrow><m:mn>8.00%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr>
+<m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>–1.47</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm26277760">The demand curve is elastic in this interval.</para></solution>
+</exercise>
+<exercise id="fs-idm14629328">
+<problem id="fs-idm19516752">
+<para id="fs-idm9504672">From the data shown in <link target-id="Table_05_03" document=""/> about supply of alarm clocks, calculate the price elasticity of supply from: point J to point K, point L to point M, and point N to point P. Classify the elasticity at each point as elastic, inelastic, or unit elastic.</para><table id="Table_05_03" summary="For J, Price = $8 and Quantity Supplied = 50. For K, Price = $9 and Quantity supplied = 70. For L, Price = $10 and Quantity supplied = 80. For M, Price = $11 and Quantity supplied = 88. For N, Price = $12 and Quantity supplied = 95. For P, Price = $13 and Quantity supplied = 100. ">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<thead>
+<row>
+	<entry>Point</entry>
+	<entry>Price</entry>
+	<entry>Quantity Supplied</entry>
+</row>
+</thead>
+<tbody>
+
+<row>
+        <entry>J </entry>
+        <entry> $8</entry>
+        <entry>50 </entry>
+ </row>
+
+<row>
+        <entry> K</entry>
+        <entry>$9 </entry>
+        <entry>70 </entry>
+ </row>
+
+<row>
+        <entry>L </entry>
+        <entry>$10 </entry>
+        <entry>80 </entry>
+ </row>
+
+<row>
+        <entry> M</entry>
+        <entry>$11 </entry>
+        <entry>88 </entry>
+ </row>
+
+<row>
+        <entry> N</entry>
+        <entry>$12 </entry>
+        <entry>95 </entry>
+ </row>
+
+<row>
+        <entry>P </entry>
+        <entry> $13</entry>
+        <entry> 100</entry>
+ </row>
+</tbody>
+</tgroup>
+</table>
+</problem>
+    <solution id="fs-idp17112768"><para id="fs-idp14357824">From point J to point K, price rises from $8 to $9, and quantity rises from 50 to 70. So:</para>
+<equation id="fs-idp103697184"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>70</m:mn><m:mo>–</m:mo><m:mn>50</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>70</m:mn><m:mo>+</m:mo><m:mn>50</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>20</m:mn></m:mrow><m:mn>60</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>33.33</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>$9</m:mn><m:mo>–</m:mo><m:mn>$8</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>$9</m:mn><m:mo>+</m:mo><m:mn>$8</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>1</m:mn><m:mtd><m:mn>8.5</m:mn></m:mtd></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>11.76</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Supply</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>33.33%</m:mn></m:mrow><m:mrow><m:mn>11.76%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>2.83</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp2452768">The supply curve is elastic in this area; that is, its elasticity value is greater than one.</para>
+<para id="fs-idm15405616">From point L to point M, the price rises from $10 to $11, while the Qs rises from 80 to 88:</para>
+<equation id="fs-idp4084544"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>88</m:mn><m:mo>–</m:mo><m:mn>80</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>88</m:mn><m:mo>+</m:mo><m:mn>80</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>8</m:mn><m:mn>84</m:mn></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>9.52</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>%change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>$11</m:mn><m:mo>–</m:mo><m:mn>$10</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>$11</m:mn><m:mo>+</m:mo><m:mn>$10</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>10.5</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>9.52</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Demand</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>9.52%</m:mn></m:mrow><m:mrow><m:mn>9.52%</m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>1.0</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp15429152">The supply curve has unitary elasticity in this area.</para>
+<para id="fs-idp24136192">From point N to point P, the price rises from $12 to $13, and Qs rises from 95 to 100:</para>
+<equation id="fs-idp62791120"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>% change in quantity</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>100</m:mn><m:mo>–</m:mo><m:mn>95</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>100</m:mn><m:mo>+</m:mo><m:mn>95</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mo>×</m:mo><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>5</m:mn><m:mrow><m:mn>97.5</m:mn></m:mrow></m:mfrac><m:mo>×</m:mo><m:mn>100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>5.13</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>% change in price</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>$13</m:mn><m:mo>–</m:mo><m:mn>$12</m:mn></m:mrow><m:mrow><m:mfenced><m:mrow><m:mn>$13</m:mn><m:mo>+</m:mo><m:mn>$12</m:mn></m:mrow></m:mfenced><m:mo>÷</m:mo><m:mn>2</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>12.5</m:mn></m:mrow></m:mfrac><m:mn> × 100</m:mn></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>8.0</m:mn></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>Elasticity of Supply</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:mn>5.13%</m:mn></m:mrow><m:mrow><m:mn>8.0%  </m:mn></m:mrow></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mn>0.64</m:mn></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idm783984">The supply curve is inelastic in this region of the supply curve.</para></solution>
+</exercise>
+</section>
+
+<section id="fs-idm18385184" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idp18359552">
+<problem id="fs-idp7772192">
+<para id="fs-idm16908240">What is the formula for calculating elasticity? </para>
+</problem>
+</exercise>
+<exercise id="fs-idp21393520">
+<problem id="fs-idp6305984">
+<para id="fs-idm75959392">What is the price elasticity of demand? Can you explain it in your own words? </para>
+</problem>
+</exercise>
+<exercise id="fs-idp19511776">
+<problem id="fs-idp10293392">
+<para id="fs-idm25657376">What is the price elasticity of supply? Can you explain it in your own words? </para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm22494896" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp21036976">
+<problem id="fs-idm21582096">
+<para id="fs-idp15550176">Transatlantic air travel in business class has an estimated elasticity of demand of 0.40 less than transatlantic air travel in economy class, with an estimated price elasticity of 0.62. Why do you think this is the case?</para>
+</problem>
+</exercise>
+<exercise id="fs-idp22382384">
+<problem id="fs-idp20937904">
+<para id="fs-idp17479632">What is the relationship between price elasticity and position on the demand curve? For example, as you move up the demand curve to higher prices and lower quantities, what happens to the measured elasticity? How would you explain that?</para>
+</problem>
+</exercise>
+</section>
+
+<section id="fs-idm10272" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm24878656">
+<problem id="fs-idm16398528">
+<para id="fs-idm5772720">The equation for a demand curve is P = 48 – 3Q. What is the elasticity in moving from a quantity of 5 to a quantity of 6?</para></problem>
+</exercise>
+<exercise id="fs-idp17107200">
+<problem id="fs-idp18185280">
+<para id="fs-idp21392496">The equation for a demand curve is P = 2/Q. What is the elasticity of demand as price falls from 5 to 4? What is the elasticity of demand as the price falls from 9 to 8? Would you expect these answers to be the same?</para></problem>
+</exercise>
+<exercise id="fs-idp27862512">
+<problem id="fs-idp16671904">
+<para id="fs-idp14162688">The equation for a supply curve is 4P = Q. What is the elasticity of supply as price rises from 3 to 4? What is the elasticity of supply as the price rises from 7 to 8? Would you expect these answers to be the same?</para></problem>
+</exercise>
+<exercise id="fs-idp21171984">
+<problem id="fs-idm10349376">
+<para id="fs-idp504864">The equation for a supply curve is P = 3Q – 8. What is the elasticity in moving from a price of 4 to a price of 7?</para></problem>
+</exercise>
+</section>
+
+</content>
+<glossary>
+<definition id="fs-idm61561936">
+<term>elastic demand</term><meaning id="fs-idm96710288">when the elasticity of demand is greater than one, indicating a high responsiveness of quantity demanded or supplied to changes in price</meaning>
+</definition>
+<definition id="fs-idm24173824">
+<term>elastic supply</term><meaning id="fs-idm25832416"> when the elasticity of either supply is greater than one, indicating a high responsiveness of quantity demanded or supplied to changes in price</meaning>
+</definition>
+<definition id="fs-idm33564032">
+<term>elasticity</term><meaning id="fs-idm30931216"> an economics concept that measures responsiveness of one variable to changes in another variable</meaning>
+</definition>
+<definition id="fs-idp7341184">
+<term>inelastic demand</term><meaning id="fs-idm56193856">when the elasticity of demand is less than one, indicating that a 1 percent increase in price paid by the consumer leads to less than a 1 percent change in purchases (and vice versa); this indicates a low responsiveness by consumers to price changes</meaning>
+</definition>
+<definition id="fs-idm43731456">
+<term>inelastic supply</term><meaning id="fs-idm47192112">when the elasticity of supply is less than one, indicating that a 1 percent increase in price paid to the firm will result in a less than 1 percent increase in production by the firm; this indicates a low responsiveness of the firm to price increases (and vice versa if prices drop)
+</meaning>
+</definition>
+<definition id="fs-idm13676144">
+<term>price elasticity</term><meaning id="fs-idm41290704"> the relationship between the percent change in price resulting in a corresponding percentage change in the quantity demanded or supplied</meaning>
+</definition>
+<definition id="fs-idm116073520">
+<term>price elasticity of demand</term><meaning id="fs-idm37427392"> percentage change in the quantity <emphasis effect="italics">demanded</emphasis> of a good or service divided the percentage change in price</meaning>
+</definition>
+<definition id="fs-idm43138848">
+<term>price elasticity of supply</term><meaning id="fs-idm8551152"> percentage change in the quantity <emphasis effect="italics">supplied</emphasis> divided by the percentage change in price</meaning>
+</definition>
+<definition id="fs-idm23185328">
+<term>unitary elasticity</term><meaning id="fs-idm6079792"> when the calculated elasticity is equal to one indicating that a change in the price of the good or service results in a proportional change in the quantity demanded or supplied</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,344 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Oligopoly</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64585</md:content-id>
+  <md:title>Oligopoly</md:title>
+  <md:abstract><para>By the end of this section, you will be able to:</para>
+<list>
+<item>Explain why and how oligopolies exist</item>
+<item>Contrast collusion and competition</item>
+<item>Interpret and analyze the prisoner’s dilemma diagram</item>
+<item>Evaluate the tradeoffs of imperfect competition</item>
+</list></md:abstract>
+  <md:uuid>be8bc5ac-e80f-44e6-9d58-f1d78903a863</md:uuid>
+</metadata>
+
+<content>
+  
+
+
+<para id="fs-idp102774464">Many purchases that individuals make at the retail level are produced in markets that are neither perfectly competitive, monopolies, nor monopolistically competitive. Rather, they are oligopolies. <term class="no-emphasis">Oligopoly</term> arises when a small number of large firms have all or most of the sales in an industry. Examples of oligopoly abound and include the auto industry, cable television, and commercial air travel. Oligopolistic firms are like cats in a bag. They can either scratch each other to pieces or cuddle up and get comfortable with one another. If oligopolists compete hard, they may end up acting very much like perfect competitors, driving down costs and leading to zero profits for all. If oligopolists collude with each other, they may effectively act like a monopoly and succeed in pushing up prices and earning consistently high levels of profit. Oligopolies are typically characterized by mutual interdependence where various decisions such as output, price, advertising, and so on, depend on the decisions of the other firm(s). Analyzing the choices of oligopolistic firms about pricing and quantity produced involves considering the pros and cons of competition versus collusion at a given point in time.</para>
+
+
+
+
+
+<section id="fs-idp3110000">
+<title>Why Do Oligopolies Exist?</title>
+<para id="fs-idm68158416">A combination of the barriers to entry that create monopolies and the product differentiation that characterizes monopolistic competition can create the setting for an oligopoly. For example, when a government grants a patent for an invention to one firm, it may create a monopoly. When the government grants patents to, for example, three different pharmaceutical companies that each has its own drug for reducing high blood pressure, those three firms may become an oligopoly.</para>
+<para id="fs-idp3318736">Similarly, a <term class="no-emphasis">natural monopoly</term> will arise when the quantity demanded in a market is only large enough for a single firm to operate at the minimum of the long-run average cost curve. In such a setting, the market has room for only one firm, because no smaller firm can operate at a low enough average cost to compete, and no larger firm could sell what it produced given the quantity demanded in the market.</para>
+<para id="fs-idm14395312"><term class="no-emphasis">Quantity demanded</term> in the market may also be two or three times the quantity needed to produce at the minimum of the average cost curve—which means that the market would have room for only two or three oligopoly firms (and they need not produce differentiated products). Again, smaller firms would have higher average costs and be unable to compete, while additional large firms would produce such a high quantity that they would not be able to sell it at a profitable price. This combination of economies of scale and market demand creates the barrier to entry, which led to the Boeing-Airbus oligopoly for large passenger aircraft.</para>
+<para id="fs-idm142792976">The product differentiation at the heart of monopolistic competition can also play a role in creating oligopoly. For example, firms may need to reach a certain minimum size before they are able to spend enough on advertising and marketing to create a recognizable brand name. The problem in competing with, say, Coca-Cola or Pepsi is not that producing fizzy drinks is technologically difficult, but rather that creating a brand name and marketing effort to equal Coke or Pepsi is an enormous task.</para>
+</section>
+
+
+
+<section id="fs-idp35631232">
+<title>Collusion or Competition?</title>
+<para id="fs-idp6481328">When oligopoly firms in a certain market decide what quantity to produce and what price to charge, they face a temptation to act as if they were a monopoly. By acting together, oligopolistic firms can hold down industry output, charge a higher price, and divide up the profit among themselves. When firms act together in this way to reduce output and keep prices high, it is called <term>collusion</term>. A group of firms that have a formal agreement to collude to produce the monopoly output and sell at the monopoly price is called a <term>cartel</term>. See the following Clear It Up feature for a more in-depth analysis of the difference between the two.</para>
+
+
+
+
+
+<note id="fs-idp155029408" class="economics clearup">
+<title>Collusion versus cartels: How can I tell which is which?</title>
+<para id="fs-idp100326656">In the United States, as well as many other countries, it is illegal for firms to collude since collusion is anti-competitive behavior, which is a violation of antitrust law. Both the <term class="no-emphasis">Antitrust Division of the Justice Department</term> and the <term class="no-emphasis">Federal Trade Commission</term> have responsibilities for preventing collusion in the United States.</para>
+<para id="fs-idp80324512">The problem of enforcement is finding hard evidence of collusion. Cartels are formal agreements to collude. Because cartel agreements provide evidence of collusion, they are rare in the United States. Instead, most collusion is tacit, where firms implicitly reach an understanding that competition is bad for profits.</para>
+</note>
+
+
+<para id="fs-idm49070400">The desire of businesses to avoid competing so that they can instead raise the prices that they charge and earn higher profits has been well understood by economists. <term class="no-emphasis">Adam Smith</term> wrote in <emphasis effect="italics">Wealth of Nations</emphasis> in 1776: “People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices.”</para>
+<para id="fs-idp62533360">Even when oligopolists recognize that they would benefit as a group by acting like a monopoly, each individual oligopoly faces a private temptation to produce just a slightly higher quantity and earn slightly higher profit—while still counting on the other oligopolists to hold down their production and keep prices high. If at least some oligopolists give in to this temptation and start producing more, then the market price will fall. Indeed, a small handful of oligopoly firms may end up competing so fiercely that they all end up earning zero economic profits—as if they were perfect competitors.</para>
+</section>
+
+<section id="fs-idp74680256">
+<title>Tradeoffs of Imperfect Competition</title>
+<para id="fs-idp73766480">Monopolistic competition is probably the single most common market structure in the U.S. economy. It provides powerful incentives for innovation, as firms seek to earn profits in the short run, while entry assures that firms do not earn economic profits in the long run. However, monopolistically competitive firms do not produce at the lowest point on their average cost curves. In addition, the endless search to impress consumers through product differentiation may lead to excessive social expenses on advertising and marketing.</para>
+<para id="fs-idp193621088">Oligopoly is probably the second most common market structure. When oligopolies result from patented innovations or from taking advantage of economies of scale to produce at low average cost, they may provide considerable benefit to consumers. Oligopolies are often buffeted by significant barriers to entry, which enable the oligopolists to earn sustained profits over long periods of time. Oligopolists also do not typically produce at the minimum of their average cost curves. When they lack vibrant competition, they may lack incentives to provide innovative products and high-quality service.</para>
+<para id="fs-idp39276240">The task of public policy with regard to competition is to sort through these multiple realities, attempting to encourage behavior that is beneficial to the broader society and to discourage behavior that only adds to the profits of a few large companies, with no corresponding benefit to consumers. <link document="m48661" class="target-chapter">Monopoly and Antitrust Policy</link> discusses the delicate judgments that go into this task.</para><note id="fs-idp131820912" class="economics bringhome">
+<title>The Temptation to Defy the Law</title>
+<para id="fs-idp169378944">Oligopolistic firms have been called “cats in a bag,” as this chapter mentioned. The French detergent makers chose to “cozy up” with each other. The result? An uneasy and tenuous relationship. When the <emphasis effect="italics">Wall Street Journal</emphasis> reported on the matter, it wrote: “According to a statement a Henkel manager made to the [French anti-trust] commission, the detergent makers wanted ‘to limit the intensity of the competition between them and clean up the market.’ Nevertheless, by the early 1990s, a price war had broken out among them.” During the soap executives’ meetings, which sometimes lasted more than four hours, complex pricing structures were established. “One [soap] executive recalled ‘chaotic’ meetings as each side tried to work out how the other had bent the rules.” Like many cartels, the soap cartel disintegrated due to the very strong temptation for each member to maximize its own individual profits.</para>
+<para id="fs-idp83394080">How did this soap opera end? After an investigation, French antitrust authorities fined Colgate-Palmolive, Henkel, and Proctor &amp; Gamble a total of €361 million ($484 million). A similar fate befell the icemakers. Bagged ice is a commodity, a perfect substitute, generally sold in 7- or 22-pound bags. No one cares what label is on the bag. By agreeing to carve up the ice market, control broad geographic swaths of territory, and set prices, the icemakers moved from perfect competition to a monopoly model. After the agreements, each firm was the sole supplier of bagged ice to a region; there were profits in both the long run and the short run. According to the courts: “These companies illegally conspired to manipulate the marketplace.” Fines totaled about $600,000—a steep fine considering a bag of ice sells for under $3 in most parts of the United States.</para>
+<para id="fs-idp63985728">Even though it is illegal in many parts of the world for firms to set prices and carve up a market, the temptation to earn higher profits makes it extremely tempting to defy the law.</para>
+</note>
+</section>
+
+
+<section id="fs-idm124286288" class="summary">
+<title>Key Concepts and Summary</title>
+<para id="fs-idm193099648">An oligopoly is a situation where a few firms sell most or all of the goods in a market. Oligopolists earn their highest profits if they can band together as a cartel and act like a monopolist by reducing output and raising price. Since each member of the oligopoly can benefit individually from expanding output, such collusion often breaks down—especially since explicit collusion is illegal.</para>
+<para id="fs-idm173399744">The prisoner’s dilemma is an example of game theory. It shows how, in certain situations, all sides can benefit from cooperative behavior rather than self-interested behavior. However, the challenge for the parties is to find ways to encourage cooperative behavior.</para>
+</section>
+
+
+
+<section id="fs-idm6749600" class="self-check-questions">
+<title>Self-Check Questions</title>
+<exercise id="fs-idm16606608">
+<problem id="fs-idp60326304">
+<para id="fs-idm42778176">Consider the curve shown in <link target-id="CNX_Econ_C10_010"/>, which shows the market demand, marginal cost, and marginal revenue curve for firms in an oligopolistic industry. In this example, we assume firms have zero fixed costs.
+<figure id="CNX_Econ_C10_010">
+<media id="fs-idm123857808" alt="The graph shows a downward sloping demand curve, a downward sloping marginal revenue curve, and a horizontal, straight marginal cost line.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C10_010.jpg"/>
+</media>
+</figure>
+
+<list id="fs-idm6367232" list-type="enumerated" number-style="lower-alpha">
+<item>Suppose the firms collude to form a cartel. What price will the cartel charge? What quantity will the cartel supply? How much profit will the cartel earn?</item>
+<item>Suppose now that the cartel breaks up and the oligopolistic firms compete as vigorously as possible by cutting the price and increasing sales. What will the industry quantity and price be? What will the collective profits be of all firms in the industry?</item>
+<item>Compare the equilibrium price, quantity, and profit for the cartel and cutthroat competition outcomes.</item>
+</list>
+</para>
+</problem>
+
+<solution id="fs-idm42541056"><para id="fs-idm42540928">
+<list id="fs-idm149102512" list-type="enumerated" number-style="lower-alpha"><item>If the firms form a cartel, they will act like a monopoly, choosing the quantity of output where MR = MC. Drawing a line from the monopoly quantity up to the demand curve shows the monopoly price. Assuming that fixed costs are zero, and with an understanding of cost and profit, we can infer that when the marginal cost curve is horizontal, average cost is the same as marginal cost. Thus, the cartel will earn positive economic profits equal to the area of the rectangle, with a base equal to the monopoly quantity and a height equal to the difference between price (on the demand above the monopoly quantity) and average cost, as shown in the following figure.
+
+<figure id="CNX_Econ_C10_011">
+<media id="fs-idp100908560" alt="The graph shows three solid lines: a downward sloping demand curve, a downward sloping marginal revenue curve, and a horizontal, straight marginal cost line. The graph also shows two dashed lines that meet at the demand curve and identify the profit-maximizing price and quantity.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C10_011.jpg"/>
+</media>
+</figure>
+</item>
+
+
+<item>The firms will expand output and cut price as long as there are profits remaining. The long-run equilibrium will occur at the point where average cost equals demand. As a result, the oligopoly will earn zero economic profits due to “cutthroat competition,” as shown in the next figure.
+
+<figure id="CNX_Econ_C10_012">
+<media id="fs-idp70041760" alt="The graph shows three solid lines: a downward sloping demand curve, a downward sloping marginal revenue curve, and a horizontal, straight marginal cost line. The graph also shows one dashed line that extends from the x-axis and ends at the demand curve/marginal cost intersection.">
+<image mime-type="image/jpg" src="../../media/CNX_Econ_C10_012.jpg"/>
+</media>
+</figure>
+</item>
+
+
+
+<item>Pc &gt; Pcc. Qc &lt; Qcc. Profit for the cartel is positive and large. Profit for cutthroat competition is zero.</item>
+</list></para>
+</solution>
+</exercise>
+
+
+
+
+<exercise id="fs-idp37882656">
+<problem id="fs-idm21209856">
+<para id="fs-idp152026688">Sometimes oligopolies in the same industry are very different in size. Suppose we have a duopoly where one firm (Firm A) is large and the other firm (Firm B) is small, as shown in the prisoner’s dilemma box in <link target-id="Table_10_05"/>.
+
+<table id="Table_10_05" summary="The table shows the prisoner’s dilemma for a duopoly. The 4 column 4 row table is modified differently than a standard table. Rows 1 and 2 in Columns 1 and 2 are empty. Columns 3 and 4 show the options for Firm B. Rows 4 and 5 show the options for Firm A.  Firm B can either “collude with Firm A” (column 3 row 2), or “cheat by selling more output” (column 4 row 2). Firm A can either “collude with Firm B” (column 2 row 3), or “cheat by selling more output” (column 2 row 4). The possible outcomes are as follows: If both Firms collude with one another: A gets $1,000, B gets $100 (column 3 row 3); if Firm B holds colludes but Firm A cheats: A gets $1,050, B gets $50 (column 3 row 4); if Firm B cheats but Firm A colludes: A gets $800, B gets $200 (column 4 row 3); if both Firms cheat: A gets $500, B gets $20 (column 4 row 4).">
+<tgroup cols="3">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<tbody>
+<row>
+<entry/>
+<entry>Firm B colludes with Firm A</entry>
+<entry>Firm B cheats by selling more output</entry>
+</row>
+
+
+<row>
+<entry>Firm A colludes with Firm B</entry>
+<entry>A gets $1,000, B gets $100</entry>
+<entry>A gets $800, B gets $200</entry>
+</row>
+<row>
+<entry>Firm A cheats by selling more output</entry>
+<entry>A gets $1,050, B gets $50</entry>
+<entry>A gets $500, B gets $20</entry>
+</row>
+</tbody>
+</tgroup>
+<caption/>
+</table>
+
+
+
+Assuming that the payoffs are known to both firms, what is the likely outcome in this case?</para>
+</problem>
+
+<solution id="fs-idp156624448"><para id="fs-idp156624576">Firm B reasons that if it cheats and Firm A does not notice, it will double its money. Since Firm A’s profits will decline substantially, however, it is likely that Firm A will notice and if so, Firm A will cheat also, with the result that Firm B will lose 90% of what it gained by cheating. Firm A will reason that Firm B is unlikely to risk cheating. If neither firm cheats, Firm A earns $1000. If Firm A cheats, assuming Firm B does not cheat, A can boost its profits only a little, since Firm B is so small. If both firms cheat, then Firm A loses at least 50% of what it could have earned. The possibility of a small gain ($50) is probably not enough to induce Firm A to cheat, so in this case it is likely that both firms will collude.</para></solution>
+</exercise>
+</section>
+
+
+
+<section id="fs-idm15626048" class="review-questions">
+<title>Review Questions</title>
+<exercise id="fs-idm22252208">
+<problem id="fs-idm19764720">
+<para id="fs-idp96382976">Will the firms in an oligopoly act more like a monopoly or more like competitors? Briefly explain.</para>
+</problem>
+</exercise>
+<exercise id="fs-idm24059696">
+<problem id="fs-idp26209040">
+<para id="fs-idp99703536">Does each individual in a prisoner’s dilemma benefit more from cooperation or from pursuing self-interest? Explain briefly.</para>
+</problem>
+</exercise>
+<exercise id="fs-idp4904912">
+<problem id="fs-idp41259616">
+<para id="fs-idm19815792">What stops oligopolists from acting together as a monopolist and earning the highest possible level of profits?</para>
+</problem>
+</exercise>
+</section>
+
+
+
+
+<section id="fs-idp10946096" class="critical-thinking">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-idp49165904">
+<problem id="fs-idm17612464">
+<para id="fs-idm28609680">Would you expect the kinked demand curve to be more extreme (like a right angle) or less extreme (like a normal demand curve) if each firm in the cartel produces a near-identical product like OPEC and petroleum? What if each firm produces a somewhat different product? Explain your reasoning.</para>
+</problem>
+</exercise>
+
+<exercise id="fs-idm26992560">
+<problem id="fs-idm46826032">
+<para id="fs-idm61727344">When OPEC raised the price of oil dramatically in the mid-1970s, experts said it was unlikely that the cartel could stay together over the long term—that the incentives for individual members to cheat would become too strong. More than forty years later, OPEC still exists. Why do you think OPEC has been able to beat the odds and continue to collude? <emphasis effect="italics">Hint:</emphasis> You may wish to consider non-economic reasons.</para>
+</problem>
+</exercise>
+</section>
+
+
+
+
+<section id="fs-idm17973856" class="problems">
+<title>Problems</title>
+<exercise id="fs-idm24242032">
+<problem id="fs-idp58204496">
+<para id="fs-idm40309472">Mary and Raj are the only two growers who provide organically grown corn to a local grocery store. They know that if they cooperated and produced less corn, they could raise the price of the corn. If they work independently, they will each earn $100. If they decide to work together and both lower their output, they can each earn $150. If one person lowers output and the other does not, the person who lowers output will earn $0 and the other person will capture the entire market and will earn $200. <link target-id="Table_10_06"/> represents the choices available to Mary and Raj. What is the best choice for Raj if he is sure that Mary will cooperate? If Mary thinks Raj will cheat, what should Mary do and why? What is the prisoner’s dilemma result? What is the preferred choice if they could ensure cooperation? A = Work independently; B = Cooperate and Lower Output. (Each results entry lists Raj’s earnings first, and Mary's earnings second.)
+
+<table id="Table_10_06" summary="The table shows the prisoner’s dilemma for Mary and Raj. The 4 column 4 row table is modified differently than a standard table. Rows 1 and 2 in Columns 1 and 2 are empty. Columns 3 and 4 show the options for Mary. Rows 4 and 5 show the options for Raj.  Mary can either work independently (column 3 row 2), or cooperate and lower output (column 4 row 2). Raj can either work independently (column 2 row 3), or cooperate and lower output (column 2 row 4). The possible outcomes are as follows: If both Mary and Raj work independently: the result is $100, $100 (column 3 row 3); if Mary works independently but Raj cooperates and lowers output: the result is $0, $200 (column 3 row 4). If Mary stays cooperates and lowers output but Raj works independently: the result is $200, $0 (column 4 row 3); if both Mary and Raj cooperate and lower output: the result is $150, $150"><tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+
+<tbody>
+<row>
+<entry morerows="1" namest="col1" nameend="col2"/>
+<entry namest="col3" nameend="col4" align="center"><emphasis>Mary</emphasis></entry>
+</row>
+<row>
+
+<entry>A</entry>
+<entry>B</entry>
+</row>
+
+
+<row>
+<entry morerows="1" align="center"><emphasis>Raj</emphasis></entry>
+<entry>A</entry>
+<entry>($100, $100)</entry>
+<entry>($200, $0)</entry>
+</row>
+<row>
+
+<entry>B</entry>
+<entry>($0, $200)</entry>
+<entry>($150, $150)</entry>
+</row>
+</tbody>
+</tgroup>
+</table></para>
+
+
+
+</problem>
+</exercise>
+
+
+
+
+
+<exercise id="fs-idp45671824">
+<problem id="fs-idm26469488">
+<para id="fs-idp26085024">Jane and Bill are apprehended for a bank robbery. They are taken into separate rooms and questioned by the police about their involvement in the crime. The police tell them each that if they confess and turn the other person in, they will receive a lighter sentence. If they both confess, they will be each be sentenced to 30 years. If neither confesses, they will each receive a 20-year sentence. If only one confesses, the confessor will receive 15 years and the one who stayed silent will receive 35 years. <link target-id="Table_10_07"/> below represents the choices available to Jane and Bill. If Jane trusts Bill to stay silent, what should she do? If Jane thinks that Bill will confess, what should she do? Does Jane have a dominant strategy? Does Bill have a dominant strategy? A = Confess; B = Stay Silent. (Each results entry lists Jane’s sentence first (in years), and Bill's sentence second.)
+
+
+<table id="Table_10_07" summary="The table shows the prisoner’s dilemma for Jane and Bill. The 4 column 4 row table is modified differently than a standard table. Rows 1 and 2 in Columns 1 and 2 are empty. Columns 3 and 4 show the options for Jane. Rows 4 and 5 show the options for Bill.  Jane can either confess (column 3 row 2), or stay silent (column 4 row 2). Bill can either confess (column 2 row 3), or stay silent (column 2 row 4). The possible outcomes are as follows: If both Jane and Bill confess: the sentence is 30, 30 (column 3 row 3); if Jane confesses but bill stays silent: the sentence is 35, 15 (column 3 row 4). If Jane stays silent but Bill confesses: the sentences is 15, 35 (column 4 row 3); if both Jane and Bill stay silent: the sentence is 20, 20 (column 4 row 4)."><tgroup cols="4">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<colspec colnum="3" colname="col3"/>
+<colspec colnum="4" colname="col4"/>
+
+<tbody>
+<row>
+<entry morerows="1" namest="col1" nameend="col2"/>
+<entry namest="col3" nameend="col4" align="center"><emphasis>Jane</emphasis></entry>
+</row>
+<row>
+
+<entry>A</entry>
+<entry>B</entry>
+</row>
+
+
+<row>
+<entry morerows="1" align="center"><emphasis>Bill</emphasis></entry>
+<entry>A</entry>
+<entry>(30, 30)</entry>
+<entry>(15, 35)</entry>
+</row>
+<row>
+
+<entry>B</entry>
+<entry>(35, 15)</entry>
+<entry>(20, 20)</entry>
+</row>
+</tbody>
+</tgroup></table></para>
+</problem>
+</exercise>
+</section>
+
+
+
+
+
+<section id="fs-idp19345904" class="references">
+<title>References</title>
+<para id="fs-idp105171728">The United States Department of Justice. “Antitrust Division.” Accessed October 17, 2013. http://www.justice.gov/atr/.</para>
+<para id="eip-103">eMarketer.com. 2014. “Total US Ad Spending to See Largest Increase Since 2004: Mobile advertising leads growth; will surpass radio, magazines and newspapers this year. Accessed March 12, 2015. http://www.emarketer.com/Article/Total-US-Ad-Spending-See-Largest-Increase-Since-2004/1010982.</para><para id="fs-idp202174096">Federal Trade Commission. “About the Federal Trade Commission.” Accessed October 17, 2013. http://www.ftc.gov/ftc/about.shtm.</para>
+</section>
+
+
+
+
+
+</content>
+
+
+<glossary>
+<definition id="fs-idp68714560">
+<term>cartel</term>
+<meaning id="fs-idp71449056">a group of firms that collude to produce the monopoly output and sell at the monopoly price</meaning>
+</definition>
+<definition id="fs-idp49437152">
+<term>collusion</term>
+<meaning id="fs-idp32256320">when firms act together to reduce output and keep prices high</meaning>
+</definition>
+<definition id="fs-idm32606400">
+<term>duopoly</term>
+<meaning id="fs-idp112884320">an oligopoly with only two firms</meaning>
+</definition>
+<definition id="fs-idp28913984">
+<term>game theory</term>
+<meaning id="fs-idp29367584">a branch of mathematics often used by economists that analyzes situations in which players must make decisions and then receive payoffs based on what decisions the other players make</meaning>
+</definition>
+<definition id="fs-idp114207920">
+<term>kinked demand curve</term>
+<meaning id="fs-idp117539664">a perceived demand curve that arises when competing oligopoly firms commit to match price cuts, but not price increases</meaning>
+</definition>
+<definition id="fs-idp13340272">
+<term>prisoner’s dilemma</term>
+<meaning id="fs-idp49520336">a game in which the gains from cooperation are larger than the rewards from pursuing self-interest</meaning>
+</definition>
+</glossary>
+
+
+</document>
