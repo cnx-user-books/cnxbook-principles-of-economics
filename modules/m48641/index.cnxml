@@ -290,7 +290,7 @@
     <entry>Conclusion</entry>
   </row>
 </thead>
-<tbody>
+<tbody>  
   <row>
     <entry>Choice 1: P</entry>
     <entry>4 T-shirts and 0 movies</entry>
@@ -327,7 +327,7 @@
     <entry>S is preferred over T</entry>
   </row>
  </tbody>
-
+ 
 </tgroup>
 </table><note id="fs-idp23241648" class="economics workout">
 <title>Decision Making by Comparing Marginal Utility</title>
@@ -591,7 +591,7 @@
 <equation id="fs-idm107771568"><m:math><m:mtable columnspacing="2px" columnalign="right center left"><m:mtr><m:mtd><m:mtext>$10</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>$2 </m:mtext><m:mo>×</m:mo><m:msub><m:mtext> Q</m:mtext><m:mtext>RT</m:mtext></m:msub><m:mtext> </m:mtext><m:mo>+</m:mo><m:mtext> $.05 </m:mtext><m:mo>×</m:mo><m:msub><m:mtext> Q</m:mtext><m:mtext>PC</m:mtext></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:mfrac><m:mtext>$10</m:mtext><m:mtext>$.05</m:mtext></m:mfrac></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mfrac><m:mrow><m:msub><m:mtext>$2Q</m:mtext><m:mtext>RT</m:mtext></m:msub><m:mtext> </m:mtext><m:mo>+</m:mo><m:msub><m:mtext>  $.05Q</m:mtext><m:mtext>PC</m:mtext></m:msub><m:mo> </m:mo></m:mrow><m:mtext>$.05</m:mtext></m:mfrac></m:mtd></m:mtr><m:mtr><m:mtd><m:mtext>200</m:mtext></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:msub><m:mtext>40Q</m:mtext><m:mtext>RT</m:mtext></m:msub><m:mtext> </m:mtext><m:mo>+</m:mo><m:msub><m:mtext> Q</m:mtext><m:mtext>PC</m:mtext></m:msub></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mtext>Q</m:mtext><m:mtext>PC</m:mtext></m:msub></m:mtd><m:mtd><m:mo>=</m:mo></m:mtd><m:mtd><m:mtext>200 </m:mtext><m:mo>-</m:mo><m:msub><m:mtext> 40Q</m:mtext><m:mtext>RT</m:mtext></m:msub></m:mtd></m:mtr></m:mtable></m:math></equation><para id="fs-idp14647184">If we choose zero through five round trips (column 1), the table below shows how many phone minutes can be afforded with the budget (column 3). The total utility figures are given in the table below. </para>
 <para id="fs-idm13075552">
 
-<table id="Table_06_07" class="unnumbered" summary="The table has 5 columns labeled “round trips,” “total utility for trips,” “phone minutes,” “total utility for minutes,” “total utility.” Row 1 shows the following: 0 (column 1); 0 (column 2); 200 (column 3); 1100 (column 4). Row 2 shows  the following: 1 (column 1); 80 (column 2); 160 (column 3); 1040 (column 4); 1120 (column 5). Row 3 shows the following: 2 (column 1); 150 (column 2) 120 (column 3); 900 (column 4); 1050 (column 5). Row 4 shows the following: 3 (column 1); 210 (column 2); 80 (column 3); 680 (column 4); 890 (column 5). Row 5 shows the following: 4 (column 1); 260 (column 2); 40 (column 3) 380 (column 4); 640 (column 5). Row 6 shows the following: 5 (column 1); 300 (column 2); 0 (column 3); 0 (column 4); 300 (column 5)."><label/>
+<table id="Table_06_07" summary="The table has 5 columns labeled “round trips,” “total utility for trips,” “phone minutes,” “total utility for minutes,” “total utility.” Row 1 shows the following: 0 (column 1); 0 (column 2); 200 (column 3); 1100 (column 4). Row 2 shows  the following: 1 (column 1); 80 (column 2); 160 (column 3); 1040 (column 4); 1120 (column 5). Row 3 shows the following: 2 (column 1); 150 (column 2) 120 (column 3); 900 (column 4); 1050 (column 5). Row 4 shows the following: 3 (column 1); 210 (column 2); 80 (column 3); 680 (column 4); 890 (column 5). Row 5 shows the following: 4 (column 1); 260 (column 2); 40 (column 3) 380 (column 4); 640 (column 5). Row 6 shows the following: 5 (column 1); 300 (column 2); 0 (column 3); 0 (column 4); 300 (column 5)."><label/>
 <tgroup cols="5">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -668,7 +668,7 @@
 
 <para id="fs-idp105281552">
 
-<table id="Table_06_08" class="unnumbered" summary="The table has 6 columns labeled “round trips,” “total utility,” “marginal utility (per trip),” “phone minutes,” “total utility,” “Marginal utility (per minute).” Row 1 shows the following: 0 (column 1); 0 (column 2); - (column 3); 200 (column 4); 1100 (column 5); - (column 6). Row 2 shows  the following: 1 (column 1); 80 (column 2); 80 (column 3); 160 (column 4); 1040 (column 5); 60/40 = 1.5 (column 6). Row 3 shows the following: 2 (column 1); 150 (column 2) 70 (column 3); 120 (column 4); 900 (column 5); 140/40=3.5 (column 6). Row 4 shows the following: 3 (column 1); 210 (column 2); 60 (column 3); 80 (column 4); 680 (column 5); 220/40=5.5 (column 6). Row 5 shows the following: 4 (column 1); 260 (column 2); 50 (column 3) 40 (column 4); 380 (column 5); 300/40=7.5 (column 6). Row 6 shows the following: 5 (column 1); 300 (column 2); 40 (column 3); 0 (column 4); 0 (column 5); 380/40=9.5 (column 6)."><label/>
+<table id="Table_06_08" summary="The table has 6 columns labeled “round trips,” “total utility,” “marginal utility (per trip),” “phone minutes,” “total utility,” “Marginal utility (per minute).” Row 1 shows the following: 0 (column 1); 0 (column 2); - (column 3); 200 (column 4); 1100 (column 5); - (column 6). Row 2 shows  the following: 1 (column 1); 80 (column 2); 80 (column 3); 160 (column 4); 1040 (column 5); 60/40 = 1.5 (column 6). Row 3 shows the following: 2 (column 1); 150 (column 2) 70 (column 3); 120 (column 4); 900 (column 5); 140/40=3.5 (column 6). Row 4 shows the following: 3 (column 1); 210 (column 2); 60 (column 3); 80 (column 4); 680 (column 5); 220/40=5.5 (column 6). Row 5 shows the following: 4 (column 1); 260 (column 2); 50 (column 3) 40 (column 4); 380 (column 5); 300/40=7.5 (column 6). Row 6 shows the following: 5 (column 1); 300 (column 2); 40 (column 3); 0 (column 4); 0 (column 5); 380/40=9.5 (column 6)."><label/>
 <tgroup cols="6">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>
@@ -747,7 +747,7 @@
 </para><para id="fs-idp27902752">Note that we cannot directly compare marginal utilities, since the units are trips versus phone minutes. We need a common denominator for comparison, which is price. Dividing MU by the price, yields columns 4 and 8 in the table below.</para>
 <para id="fs-idp11474512">
 
-<table id="Table_06_09" class="unnumbered" summary="The table has 8 columns labeled “round trips,” “total utility,” “marginal utility (per trip),” “MU/P,” “phone minutes,” “total utility,” “Marginal utility (per minute),” “MU/P.” Row 1 shows the following: 0 (column 1); 0 (column 2); - (column 3); - (column 4); 200 (column 5); 1100 (column 6); 60/40=1.5 (column 7); 1.5/$0.05=30 (column 8). Row 2 shows  the following: 1 (column 1); 80 (column 2); 80 (column 3); 80/$2=40 (column 4); 160 (column 5); 1040 (column 6); 140/40=3.5 (column 7); 3.5/$0.05=70 (column 8). Row 3 shows the following: 2 (column 1); 150 (column 2) 70 (column 3); 70/$2=35 (column 4); 120 (column 5); 900 (column 6); 220/40=5.5 (column 7); 5.5/$0.05=110 (column 8). Row 4 shows the following: 3 (column 1); 210 (column 2); 60 (column 3); 60/$2=30 (column 4); 80 (column 5); 680 (column 6); 300/40=7.5 (column 7); 7.5/$0.05=150 (column 8). Row 5 shows the following: 4 (column 1); 260 (column 2); 50 (column 3) 50/$2=25 (column 4); 40 (column 5); 380 (column 6); 380/40=9.5 (column 7); 9.5/$0.05=190 (column 8). Row 6 shows the following: 5 (column 1); 300 (column 2); 40 (column 3); 40/$2=20 (column 4); 0 (column 5); 0 (column 6); - (column 7); - (column 8)."><label/>
+<table id="Table_06_09" summary="The table has 8 columns labeled “round trips,” “total utility,” “marginal utility (per trip),” “MU/P,” “phone minutes,” “total utility,” “Marginal utility (per minute),” “MU/P.” Row 1 shows the following: 0 (column 1); 0 (column 2); - (column 3); - (column 4); 200 (column 5); 1100 (column 6); 60/40=1.5 (column 7); 1.5/$0.05=30 (column 8). Row 2 shows  the following: 1 (column 1); 80 (column 2); 80 (column 3); 80/$2=40 (column 4); 160 (column 5); 1040 (column 6); 140/40=3.5 (column 7); 3.5/$0.05=70 (column 8). Row 3 shows the following: 2 (column 1); 150 (column 2) 70 (column 3); 70/$2=35 (column 4); 120 (column 5); 900 (column 6); 220/40=5.5 (column 7); 5.5/$0.05=110 (column 8). Row 4 shows the following: 3 (column 1); 210 (column 2); 60 (column 3); 60/$2=30 (column 4); 80 (column 5); 680 (column 6); 300/40=7.5 (column 7); 7.5/$0.05=150 (column 8). Row 5 shows the following: 4 (column 1); 260 (column 2); 50 (column 3) 50/$2=25 (column 4); 40 (column 5); 380 (column 6); 380/40=9.5 (column 7); 9.5/$0.05=190 (column 8). Row 6 shows the following: 5 (column 1); 300 (column 2); 40 (column 3); 40/$2=20 (column 4); 0 (column 5); 0 (column 6); - (column 7); - (column 8)."><label/>
 <tgroup cols="8">
 <colspec colnum="1" colname="col1"/>
 <colspec colnum="2" colname="col2"/>

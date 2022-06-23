@@ -15,7 +15,7 @@
 
 <content>
 <para id="fs-idm56555424">People do not obtain utility just from products they purchase. They also obtain utility from leisure time. Leisure time is time not spent at work. The decision-making process of a utility-maximizing household applies to what quantity of hours to work in much the same way that it applies to purchases of goods and services. Choices made along the <term class="no-emphasis">labor-leisure budget constraint</term>, as wages shift, provide the logical underpinning for the labor supply curve. The discussion also offers some insights about the range of possible reactions when people receive higher wages, and specifically about the claim that if people are paid higher wages, they will work a greater quantity of hours—assuming that they have a say in the matter. </para>
-<para id="fs-idm23158592">According to the Bureau of Labor Statistics, U.S. workers averaged 38.6 hours per week on the job in 2014. This average includes part-time workers; for full-time workers only, the average was 42.5 hours per week. <link target-id="Table_06_10" document=""/> shows that more than half of all workers are on the job 35 to 48 hours per week, but significant proportions work more or less than this amount. </para><para id="fs-idm126338864"><link target-id="Table_06_11" document=""/> breaks down the average hourly compensation received by private industry workers, including wages and benefits. Wages and salaries are about three-quarters of total compensation received by workers; the rest is in the form of health insurance, vacation pay, and other benefits. The compensation workers receive differs for many reasons, including experience, education, skill, talent, membership in a labor union, and the presence of discrimination against certain groups in the labor market. Issues surrounding the inequality of incomes in a market-oriented economy are explored in the chapters on <link document="m48681">Poverty and Economic Inequality</link> and <link document="m48689">Issues in Labor Markets: Unions, Discrimination, Immigration</link>.</para><table id="Table_06_10" summary="The table breaks down the number of hours per week most people work, according to the BLS. People who work 1-14 hours per week amount to 6.9 million people and 5.0% of the workforce. People who work 15-34 hours per week amount to 27.6 million people and 20.1% of the workforce. People who work 35-40 hours per week amount to 68.5 million people and 49.9% of the workforce. People who work 41-48 hours per week amount to 11.9 million people and 8.6% of the workforce. People who work 49-59 hours per week amount to 13.3 million people and 9.6% of the workforce. People who work 60 or more hours amount to 9.3 million people and 6.8% of the workforce.">
+<para id="fs-idm23158592">According to the Bureau of Labor Statistics, U.S. workers averaged 38.6 hours per week on the job in 2014. This average includes part-time workers; for full-time workers only, the average was 42.5 hours per week. <link target-id="Table_06_10" document=""/> shows that more than half of all workers are on the job 35 to 48 hours per week, but significant proportions work more or less than this amount. </para><para id="fs-idm126338864"><link target-id="Table_06_11" document=""/> breaks down the average hourly compensation received by private industry workers, including wages and benefits. Wages and salaries are about three-quarters of total compensation received by workers; the rest is in the form of health insurance, vacation pay, and other benefits. The compensation workers receive differs for many reasons, including experience, education, skill, talent, membership in a labor union, and the presence of discrimination against certain groups in the labor market. Issues surrounding the inequality of incomes in a market-oriented economy are explored in the chapters on <link document="m48681" class="target-chapter">Poverty and Economic Inequality</link> and <link document="m48689" class="target-chapter">Issues in Labor Markets: Unions, Discrimination, Immigration</link>.</para><table id="Table_06_10" summary="The table breaks down the number of hours per week most people work, according to the BLS. People who work 1-14 hours per week amount to 6.9 million people and 5.0% of the workforce. People who work 15-34 hours per week amount to 27.6 million people and 20.1% of the workforce. People who work 35-40 hours per week amount to 68.5 million people and 49.9% of the workforce. People who work 41-48 hours per week amount to 11.9 million people and 8.6% of the workforce. People who work 49-59 hours per week amount to 13.3 million people and 9.6% of the workforce. People who work 60 or more hours amount to 9.3 million people and 6.8% of the workforce.">
 <title>Persons at Work, by Average Hours Worked per Week in 2013 (Total number of workers: 137.7 million)</title>
 <tgroup cols="3">
 <colspec colnum="1" colname="col1"/>
@@ -61,7 +61,7 @@
   </row>
  </tbody>
 </tgroup>
-<caption>(Source: http://www.bls.gov/news.release/empsit.t18.htm)</caption>
+<caption>(Source: http://www.bls.gov/news.release/empsit.t18.htm)</caption> 
 </table>
 
 <table id="Table_06_11" summary="This table has two columns and eleven rows. Under the first column, the first three rows are header rows with the values: Compensation, Wage, Salary, and Benefits; Wages and Salaries; and Benefits. Under the first column, the values under the 'Benefits' header are: Vacation; Supplemental Pay; Insurance; Health Benefits; Retirement and Savings; Defined Benefit; and Defined Contribution; Legally Required. Under second column are the values: $30.32 per hour; $20.92; $2.09; $0.84; $2.15;$2.36; $1.24; $0.57; $.064; and $2.46."><title>Hourly Compensation: Wages, Benefits, and Taxes in 2014</title>
@@ -115,7 +115,7 @@
       <entry>$2.46</entry>
     </row>
     </tbody>
-
+  
 </tgroup><caption>(Source: http://www.bls.gov/news.release/pdf/ecec.pdf)</caption>
 </table><section id="fs-idp110263760">
 <title>The Labor-Leisure Budget Constraint</title>
@@ -125,7 +125,7 @@
 <figure id="CNX_Econ_C06_005"><title>How a Rise in Wages Alters the Utility-Maximizing Choice </title><media id="fs-idp114705952" alt="The graph shows how raised wages can influence the opportunity set.">
         <image mime-type="image/jpeg" src="../../media/CNX_Econ_C06_005.jpg"/>
       </media>
-
+      
     <caption>Vivian’s original choice is point O on the lower opportunity set. A rise in her wage causes her opportunity set to swing upward. In response to the increase in wages, Vivian can make a range of different choices available to her: a choice like D, which involves less work; and a choice like B, which involves the same amount of work but more income; or a choice like A, which involves more work and considerably more income. Vivian’s personal preferences will determine which choice she makes.</caption></figure><para id="fs-idp7567408">For Vivian to discover the labor-leisure choice that will maximize her utility, she does not have to place numerical values on the total and marginal utility that she would receive from every level of income and leisure. All that really matters is that Vivian can compare, in her own mind, whether she would prefer more leisure or more income, given the tradeoffs she faces. If Vivian can say to herself: “I’d really rather work a little less and have more leisure, even if it means less income,” or “I’d be willing to work more hours to make some extra income,” then as she gradually moves in the direction of her preferences, she will seek out the utility-maximizing choice on her labor-leisure budget constraint. </para>
 <para id="fs-idp17709424">Now imagine that Vivian’s wage level increases to $12/hour. A higher wage will mean a new budget constraint that tilts up more steeply; conversely, a lower wage would have led to a new budget constraint that was flatter. How will a change in the wage and the corresponding shift in the budget constraint affect Vivian’s decisions about how many hours to work? </para>
 <para id="fs-idp32795152">Vivian’s choices of quantity of hours to work and income along her new budget constraint can be divided into several categories, using the dashed horizontal and vertical lines in <link target-id="CNX_Econ_C06_005" document=""/> that go through her original choice (O). One set of choices in the upper-left portion of the new budget constraint involves more hours of work (that is, less leisure) and more income, at a point like A with 20 hours of leisure, 50 hours of work, and $600 of income (that is, 50 hours of work multiplied by the new wage of $12 per hour). A second choice would be to work exactly the same 40 hours, and to take the benefits of the higher wage in the form of income that would now be $480, at choice B. A third choice would involve more leisure and the same income at point C (that is, 33-1/3 hours of work multiplied by the new wage of $12 per hour equals $400 of total income). A fourth choice would involve less income and much more leisure at a point like D, with a choice like 50 hours of leisure, 20 hours of work, and $240 in income. </para>
@@ -139,7 +139,7 @@
 <figure id="CNX_Econ_C06_006"><title>A Backward-Bending Supply Curve of Labor </title><media id="fs-idp84592384" alt="The graph shows that the labor-leisure budget constraint can be influenced in several ways based on higher wages and the numbers of hours worked.">
         <image mime-type="image/jpeg" src="../../media/CNX_Econ_C06_006.jpg"/>
       </media>
-
+      
     <caption>The bottom upward-sloping portion of the labor supply curve shows that as wages increase over this range, the quantity of hours worked also increases. The middle, nearly vertical portion of the labor supply curve shows that as wages increase over this range, the quantity of hours worked changes very little. The backward-bending portion of the labor supply curve at the top shows that as wages increase over this range, the quantity of hours worked actually decreases. All three of these possibilities can be derived from how a change in wages causes movement in the labor-leisure budget constraint, and thus different choices by individuals.</caption></figure><note id="fs-idp409072" class="economics clearup">
 <title>Is America a nation of workaholics?</title>
 <para id="fs-idm28300528">Americans work a lot. <link target-id="Table_06_12" document=""/> shows average hours worked per year in the United States, Canada, Japan, and several European countries, with data from 2013. To get a perspective on these numbers, someone who works 40 hours per week for 50 weeks per year, with two weeks off, would work 2,000 hours per year. The gap in hours worked is a little astonishing; the 250 to 300 hour gap between how much Americans work and how much Germans or the French work amounts to roughly six to seven weeks less of work per year. Economists who study these international patterns debate the extent to which average Americans and Japanese have a preference for working more than, say, Germans, or whether German workers and employers face particular kinds of taxes and regulations that lead to fewer hours worked. Many countries have laws that regulate the work week and dictate holidays and the standards of “normal” vacation time vary from country to country. It is also interesting to take the amount of time spent working in context; it is estimated that in the late nineteenth century in the United States, the average work week was over 60 hours per week—leaving little to no time for leisure.</para><table id="Table_06_12" summary="The table shows the average annual hours actually worked per employed person in various countries. The United States = 1,824. Spain = 1,799. Japan = 1,759. Canada = 1,751. The United Kingdom = 1,669. Sweden = 1,585. German = 1,443. Franc = 1,441."><title>Average Hours Worked Per Year in Select Countries</title>
@@ -185,7 +185,7 @@
         <entry>1,441</entry>
       </row>
     </tbody>
-
+  
 </tgroup><caption>(Source: http://stats.oecd.org/Index.aspx?DataSetCode=ANHRS)</caption>
 </table></note>
 <para id="fs-idp11752400">The different responses to a rise in wages—more hours worked, the same hours worked, or fewer hours worked—are patterns exhibited by different groups of workers in the U.S. economy. Many full-time workers have jobs where the number of hours is held relatively fixed, partly by their own choice and partly by their employer’s practices. These workers do not much change their hours worked as wages rise or fall, so their supply curve of labor is inelastic. However, part-time workers and younger workers tend to be more flexible in their hours, and more ready to increase hours worked when wages are high or cut back when wages fall. </para>
@@ -218,7 +218,7 @@
     <entry>Total Utility from Income</entry>
   </row>
 </thead>
-<tbody>
+<tbody>  
   <row>
     <entry>0</entry>
     <entry>0</entry>
@@ -284,7 +284,7 @@
     <entry>Total Utility from Income</entry>
     <entry>Total Utility from Both</entry>
   </row>
- </thead>
+ </thead> 
  <tbody>
   <row>
     <entry>0</entry>
